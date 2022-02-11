@@ -1,7 +1,7 @@
 ## Books
 
 ### MAKE ART with Artificial Intelligence
-_**Amazon Bestseller in Neural Networks, Arts**_
+_*Amazon Bestseller in Neural Networks, Arts*_
 
 [![http://kevinashley.com](images/banner.png)](https://www.amazon.com/dp/B091J3T4HM)
 
