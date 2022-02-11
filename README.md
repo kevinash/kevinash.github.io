@@ -1,5 +1,3 @@
->Author, Microsoft app developer Hall of Fame engineer
-
 ## MAKE ART with Artificial Intelligence
 _**Amazon Bestseller in Neural Networks, Arts**_
 
@@ -20,3 +18,9 @@ I noticed that many readers buy the paperback as a gift to college kids, or if t
 [![MAKE ART with AI](images/book-hardcover_front1.jpg)](https://www.youtube.com/watch?v=8Ex_Ky9NZDM)
 
 All artwork from this book, made and augmented with AI is available on blockchain as NFT gallery called The Art of AI.
+
+## Other Books
+
+### Applied Machine Learning for Health and Fitness
+
+[![http://kevinashley.com](images/applied_ml_health_fitness_med.jpg)](https://www.apress.com/us/book/9781484257715)
