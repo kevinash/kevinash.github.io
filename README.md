@@ -18,6 +18,6 @@ This book is a richly illustrated tutorial to artificial intelligence (AI) for a
 
 I noticed that many readers buy the paperback as a gift to college kids, or if they are interested in art and technology. The paperback is a great option: high quality print, color full page illustrations, the book makes a beautiful gift! See fot yourself:
 
-[![MAKE ART with AI]](https://www.youtube.com/watch?v=VlUHaz1hooA "MAKE ART with AI - Click to Watch!")
+[![MAKE ART with AI](images/book-hardcover_front.jpg)](https://youtu.be/8Ex_Ky9NZDM "MAKE ART with AI - Click to Watch!")
 
 All artwork from this book, made and augmented with AI is available on blockchain as NFT gallery called The Art of AI.
