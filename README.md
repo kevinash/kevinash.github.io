@@ -1,5 +1,3 @@
-## Books
-
 ### MAKE ART with Artificial Intelligence
 _*Amazon Bestseller in Neural Networks, Arts*_
 
