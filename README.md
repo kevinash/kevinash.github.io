@@ -1,4 +1,3 @@
-## Kevin Ashley
 >Author, Microsoft app developer Hall of Fame engineer
 
 ## MAKE ART with Artificial Intelligence
