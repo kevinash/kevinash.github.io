@@ -1,6 +1,6 @@
 [![http://kevinashley.com](images/banner.png)](https://www.amazon.com/dp/B091J3T4HM)
 
-### MAKE ART with Artificial Intelligence
+## MAKE ART with Artificial Intelligence
 _*Amazon Bestseller in Neural Networks, Arts*_
 
 >A practical guide for everyone on how to use Artificial Intelligence super-tools in art, illustration, design and more…
@@ -19,6 +19,6 @@ I noticed that many readers buy the paperback as a gift to college kids, or if t
 
 All artwork from this book, made and augmented with AI is available on blockchain as NFT gallery called The Art of AI.
 
-### Applied Machine Learning for Health and Fitness
+## Applied Machine Learning for Health and Fitness
 
 [![http://kevinashley.com](images/applied_ml_health_fitness_med.jpg)](https://www.apress.com/us/book/9781484257715)
