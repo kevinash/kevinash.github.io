@@ -1,7 +1,7 @@
 ## MAKE ART with Artificial Intelligence
 _**Amazon Bestseller in Neural Networks, Arts**_
 
-[![http://kevinashley.com](images/banner.png)](https://www.amazon.com/dp/B091J3T4HM)
+[![http://kevinashley.com](images/make-art-with-ai-banner-800.jpg)](https://www.amazon.com/dp/B091J3T4HM)
 
 >A practical guide for everyone on how to use Artificial Intelligence super-tools in art, illustration, design and more…
 
