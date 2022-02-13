@@ -1,6 +1,6 @@
 [![http://kevinashley.com](images/make-art-with-ai-banner-800.jpg)](https://www.amazon.com/dp/B091J3T4HM)
 
- {% include carousel.html height="50" unit="%" duration="7" number="1" %}
+{% include carousel.html height="50" unit="%" duration="7" number="1" %}
 
 ## MAKE ART with Artificial Intelligence
 
