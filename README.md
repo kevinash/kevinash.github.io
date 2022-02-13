@@ -1,3 +1,10 @@
+---
+layout: home
+image_sliders_load_all: true
+image_sliders:
+  - slider1
+---
+
 {% include slider.html selector="slider1" %}
 
 ## MAKE ART with Artificial Intelligence
