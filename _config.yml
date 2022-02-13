@@ -6,7 +6,5 @@ layout: home
 twitter_username: kashleytwit
 github_username:  kevinash
 instagram_username: awesomeai_art
-carousels:
-  - images: 
-    - image: images/carousel1.jpg
-    - image: images/carousel2.jpg
+image_sliders:
+  - slider1

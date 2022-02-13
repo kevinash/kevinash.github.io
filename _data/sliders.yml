@@ -9,14 +9,5 @@
       alt: Applied Machine Learning for Health and Fitness
       href: https://github.com/jekylltools/jekyll-ideal-image-slider-include
   settings:
-    height: 400
-    initialHeight:
-    maxHeight:
-    interval:
-    transitionDuration:
-    effect:
-    disableNav:
-    keyboardNav:
-    previousNavSelector:
-    nextNavSelector:
-
+    height: "'auto'"
+    effect: "'fade'"
