@@ -1,9 +1,3 @@
----
-image_sliders:
-  - slider1
-image_sliders_load_all: true
----
-
 {% include slider.html selector="slider1" %}
 
 ## MAKE ART with Artificial Intelligence
