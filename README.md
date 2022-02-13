@@ -1,4 +1,4 @@
-[![http://kevinashley.com](images/make-art-with-ai-banner-800.jpg)](https://www.amazon.com/dp/B091J3T4HM)
+{% include slider.html selector="slider1" %}
 
 ## MAKE ART with Artificial Intelligence
 
@@ -13,6 +13,9 @@ _**Amazon Bestseller in Neural Networks, Arts**_
 This book is a richly illustrated tutorial to artificial intelligence (AI) for anyone interested in expanding creativity with AI. Written and illustrated by Kevin Ashley, a Microsoft developer hall of fame engineer, and an author of book and courses on AI, with lots of practical tutorials. Think of this book as v3.0 of your drawing class manual on how to sketch, draw faces, poses, and landscapes, apply light, color, style, emotion, expressions, perspective, generate animations, speech and more with AI.
 
 _**Suggestion: Hardcover and Paperback make a great gift!**_
+
+[![http://kevinashley.com](images/make-art-with-ai-banner-800.jpg)](https://www.amazon.com/dp/B091J3T4HM)
+
 
 I noticed that many readers buy the paperback as a gift to college kids, or if they are interested in art and technology. The paperback is a great option: high quality print, color full page illustrations, the book makes a beautiful gift! See fot yourself:
 
