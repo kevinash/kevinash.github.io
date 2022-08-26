@@ -1,3 +1,28 @@
+[![http://kevinashley.com](images/banner_art_of_prompts.jpg)](https://www.amazon.com/dp/B0BBXQ7VQL)
+
+## Art of Prompts for Artificial Intelligence
+
+_**Amazon Bestseller in Neural Networks, Arts**_
+
+NEW! The Art of Prompts, is a great resource for anyone interested in digital arts and artificial intelligence. Includes hundreds of illustrations and tips on making beautiful digital art with Midjourney, DALL-E and other artificial intelligence tools. Enjoy browsing through a gallery of hundreds of illustrations made with prompts, try them yourself and have fun!
+
+[![http://kevinashley.com](images/art_of_prompts_500.jpg)](https://www.amazon.com/dp/B0BBXQ7VQL)
+
+- [NEW Paperback](https://www.amazon.com/dp/B0BBXQ7VQL), paperback, quality color print, feels and reads like an art book, 200 illustrations 
+- [Ebook (Amazon)](https://www.amazon.com/dp/B0BBTRRL15) - reflowable text, easy navigation
+
+Make beautiful art with Midjourney, DALL-E and other artificial intelligence tools.
+Includes 200+ beautiful illustrations and tested prompts you can copy-and-paste to jump start creating artwork instantly.
+Learn to instantly create professional digital art for your projects, books, documentation, research, or business:
+- Illustrations
+- Portraits
+- Landscapes
+- Sketches and Infographics
+- Industrial and Architectural Design
+- 3D
+- Science Fiction
+- Fantasy and Games
+
 [![http://kevinashley.com](images/make-art-with-ai-banner-800.jpg)](https://www.amazon.com/dp/B091J3T4HM)
 
 ## MAKE ART with Artificial Intelligence
