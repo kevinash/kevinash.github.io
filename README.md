@@ -1,10 +1,10 @@
 [![http://kevinashley.com](images/banner_art_of_prompts.jpg)](https://www.amazon.com/dp/B0BBXQ7VQL)
 
-## Art of Prompts for Artificial Intelligence
+## The Art of Prompts for Artificial Intelligence
 
-_**Amazon Bestseller in Neural Networks, Arts**_
+_**NEW BOOK! Amazon Bestseller in Neural Networks, Arts**_
 
-NEW! The Art of Prompts, is a great resource for anyone interested in digital arts and artificial intelligence. Includes hundreds of illustrations and tips on making beautiful digital art with Midjourney, DALL-E and other artificial intelligence tools. Enjoy browsing through a gallery of hundreds of illustrations made with prompts, try them yourself and have fun!
+The Art of Prompts, is a great resource for anyone interested in digital arts and artificial intelligence. Includes hundreds of illustrations and tips on making beautiful digital art with Midjourney, DALL-E and other artificial intelligence tools. Enjoy browsing through a gallery of hundreds of illustrations made with prompts, try them yourself and have fun!
 
 [![http://kevinashley.com](images/art_of_prompts_500.jpg)](https://www.amazon.com/dp/B0BBXQ7VQL)
 
@@ -14,6 +14,7 @@ NEW! The Art of Prompts, is a great resource for anyone interested in digital ar
 Make beautiful art with Midjourney, DALL-E and other artificial intelligence tools.
 Includes 200+ beautiful illustrations and tested prompts you can copy-and-paste to jump start creating artwork instantly.
 Learn to instantly create professional digital art for your projects, books, documentation, research, or business:
+
 - Illustrations
 - Portraits
 - Landscapes
@@ -27,7 +28,7 @@ Learn to instantly create professional digital art for your projects, books, doc
 
 ## MAKE ART with Artificial Intelligence
 
-_**Amazon Bestseller in Neural Networks, Arts**_
+_**NEW BOOK: Amazon Bestseller in Neural Networks, Arts**_
 
 >A practical guide for everyone on how to use Artificial Intelligence super-tools in art, illustration, design and more…
 
@@ -39,7 +40,6 @@ This book is a richly illustrated tutorial to artificial intelligence (AI) for a
 
 _**Suggestion: Hardcover and Paperback make a great gift!**_
 
-
 I noticed that many readers buy the paperback as a gift to college kids, or if they are interested in art and technology. The paperback is a great option: high quality print, color full page illustrations, the book makes a beautiful gift! See fot yourself:
 
 [![MAKE ART with AI](images/book-hardcover_front1.jpg)](https://www.youtube.com/watch?v=8Ex_Ky9NZDM)
@@ -48,4 +48,20 @@ All artwork from this book, made and augmented with AI is available on blockchai
 
 ## Applied Machine Learning for Health and Fitness
 
-[![http://kevinashley.com](images/applied_ml_health_fitness_med.jpg)](https://www.apress.com/us/book/9781484257715)
+A book that became classics of A.I. in sports! Used by many sports scientists. For this book you can also check my complete video course [AI in Sports with Python](https://ai-learning.vhx.tv/) with multiple notebooks and tutorials.
+
+[![http://kevinashley.com](images/applied_ml_health_fitness_med.jpg)](https://www.amazon.com/gp/product/B08GLG5CFG)
+
+## Metaverse Products
+
+Kevin developed multiple metaverse tools and products: for example [AI Kiosk](https://livebookai.com/post/kiosk) for Computer History Museum in Silicon Valley.
+
+## Livebook AI Kiosk
+
+[![http://kevinashley.com](images/ai-kiosk.jpg)](https://livebookai.com/post/kiosk)
+
+A.I. Digital Signage - Impress your visitors with customized and interactive content created by Artificial Intelligence streaming live to your device! Our Livebook AI Kiosk is a kiosk style tradeshow ready device, the exact replica of our exhibit in the Computer History Museum in Silicon Valley, customized for your content.
+
+It requires a Business subscription to Livebook AI service. The displayed content is customizable for your audience. 
+
+[![Livebook AI Kiosk](https://youtube.com/shorts/JjtaNWW6Z34)
