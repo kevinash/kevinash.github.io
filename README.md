@@ -64,4 +64,4 @@ A.I. Digital Signage - Impress your visitors with customized and interactive con
 
 It requires a Business subscription to Livebook AI service. The displayed content is customizable for your audience. 
 
-[![Livebook AI Kiosk](https://youtube.com/shorts/JjtaNWW6Z34)
+[![Livebook AI Kiosk]](https://youtube.com/shorts/JjtaNWW6Z34)
