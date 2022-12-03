@@ -37,16 +37,13 @@ _**Interested in writing a review? [Ping me on LinkedIn](https://www.linkedin.co
 
 How to use this book and online tools: this book works best with a subscription to my easy-to-use online artificial intelligence called Ask AI (https://askainow.com), where you can follow with practical exercises, examples, online tests and more. 
 
+[![Ask AI](images/askai_logo.png)](https://askainow.com)
+
 Job seekers: can use Ask AI to prepare for job interviews of any complexity! Get valuable coaching, feedback from AI, access training resources and tips to prepare for interviews, practice and get certified by artificial intelligence.
 
 For recruiters, HR and business, the tool provides online tests for candidates with instant artificial intelligence evaluation. Learn about using artificial intelligence in your hiring process, simplify your hiring process and reduce costs for in-person interviews.
 
 For live online examples for this book, check [Ask AI](https://askainow.com), an online tool that helps preparing for job interviews and online training/certification with AI:
-
-[![Ask AI](images/askai_logo.png)](https://askainow.com)
-
-
-[![http://kevinashley.com](images/make-art-with-ai-banner-800.jpg)](https://www.amazon.com/dp/B091J3T4HM)
 
 ## MAKE ART with Artificial Intelligence
 
@@ -67,6 +64,8 @@ I noticed that many readers buy the paperback as a gift to college kids, or if t
 [![MAKE ART with AI](images/book-hardcover_front1.jpg)](https://www.youtube.com/watch?v=8Ex_Ky9NZDM)
 
 All artwork from this book, made and augmented with AI is available on blockchain as NFT gallery called The Art of AI.
+
+[![http://kevinashley.com](images/make-art-with-ai-banner-800.jpg)](https://www.amazon.com/dp/B091J3T4HM)
 
 ## Applied Machine Learning for Health and Fitness
 
