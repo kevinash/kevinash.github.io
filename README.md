@@ -24,6 +24,27 @@ Learn to instantly create professional digital art for your projects, books, doc
 - Science Fiction
 - Fantasy and Games
 
+## Interview with Artificial Intelligence
+
+Announcing the paperback edition of my new book: AI changes the way we learn, get certified, our training and even how we get hired. Enjoy hundreds of puzzles and tests that demonstrate how to apply AI in learning, interviews and more (including the famous "Good Will Hunting" movie problem). Includes practical problems from Google, Amazon, Meta, Microsoft job interviews solved by AI.
+
+[![http://kevinashley.com](images/interview_500.jpg)](https://www.amazon.com/dp/B0BNV3MN53)
+
+- [NEW Paperback](https://www.amazon.com/dp/B0BNV3MN53), paperback 
+- [Ebook (Amazon)](https://www.amazon.com/dp/B0BMMB8BZH) - links in text for easy navigation, reflowable
+
+Make beautiful art with Midjourney, DALL-E and other artificial intelligence tools.
+Includes 200+ beautiful illustrations and tested prompts you can copy-and-paste to jump start creating artwork instantly.
+Learn to instantly create professional digital art for your projects, books, documentation, research, or business:
+
+_** Interested in writing a review? [Ping me on LinkedIn](https://www.linkedin.com/in/kashlik/) to get a FREE copy! **_
+
+How to use this book and online tools: this book works best with a subscription to my easy-to-use online artificial intelligence called Ask AI (https://askainow.com), where you can follow with practical exercises, examples, online tests and more. 
+
+Job seekers: can use Ask AI to prepare for job interviews of any complexity! Get valuable coaching, feedback from AI, access training resources and tips to prepare for interviews, practice and get certified by artificial intelligence.
+
+For recruiters, HR and business, the tool provides online tests for candidates with instant artificial intelligence evaluation. Learn about using artificial intelligence in your hiring process, simplify your hiring process and reduce costs for in-person interviews.
+
 [![http://kevinashley.com](images/make-art-with-ai-banner-800.jpg)](https://www.amazon.com/dp/B091J3T4HM)
 
 ## MAKE ART with Artificial Intelligence
