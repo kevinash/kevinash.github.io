@@ -41,11 +41,16 @@ Job seekers: can use Ask AI to prepare for job interviews of any complexity! Get
 
 For recruiters, HR and business, the tool provides online tests for candidates with instant artificial intelligence evaluation. Learn about using artificial intelligence in your hiring process, simplify your hiring process and reduce costs for in-person interviews.
 
+For live online examples for this book, check [Ask AI](https://askainow.com), an online tool that helps preparing for job interviews and online training/certification with AI:
+
+[![Ask AI](images/askai_logo.png)](https://askainow.com)
+
+
 [![http://kevinashley.com](images/make-art-with-ai-banner-800.jpg)](https://www.amazon.com/dp/B091J3T4HM)
 
 ## MAKE ART with Artificial Intelligence
 
-_**NEW BOOK: Amazon Bestseller in Neural Networks, Arts**_
+[![http://kevinashley.com](images/makeart_cover_500.png)](https://www.amazon.com/dp/B091J3T4HM)
 
 >A practical guide for everyone on how to use Artificial Intelligence super-tools in art, illustration, design and more…
 
@@ -78,6 +83,8 @@ Kevin Ashley engineering labs developed fantastic products that millions of user
 [![Ask AI](images/askai_logo.png)](https://askainow.com)
 
 AskAI is a learning, testing and certification platform powered by Artificial Intelligence. It's a new way to learn, prepare for tests, exams and interviews and evaluate your candidates and skills. Because our platform is powered by artificial intelligence, it can answer most top companies interview questions with ease!
+
+[![Ask AI](https://img.youtube.com/vi/i9GcLP074ZA/sddefault.jpg)](https://www.youtube.com/watch?v=i9GcLP074ZA) 
 
 ## Livebook AI Kiosk
 
