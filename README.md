@@ -1,5 +1,14 @@
 [![http://kevinashley.com](images/banner_art_of_prompts.jpg)](https://www.amazon.com/dp/B0BBXQ7VQL)
 
+With over 20 years of software development, Kevin Ashley Studio is our showcase collection of projects, products, books, art, events from Kevin Ashley and our team. 
+
+## Happy New Year 2023!
+
+[NEW BOOK: Art of Prompts](https://www.amazon.com/dp/B0BBXQ7VQL)
+[Ask AI](https://askainow.com)
+[Livebook AI](https://livebookai.com)
+[AI Kiosks](https://livebookai.com/post/kiosk)
+
 ## The Art of Prompts for Artificial Intelligence
 
 _**NEW BOOK! Amazon Bestseller in Neural Networks, Arts**_
@@ -35,7 +44,7 @@ Announcing the paperback edition of my new book: AI changes the way we learn, ge
 
 _**Interested in writing a review? [Ping me on LinkedIn](https://www.linkedin.com/in/kashlik/) to get a FREE copy!**_
 
-How to use this book and online tools: this book works best with a subscription to my easy-to-use online artificial intelligence called Ask AI (https://askainow.com), where you can follow with practical exercises, examples, online tests and more. 
+How to use this book and online tools: this book works best with a subscription to my easy-to-use online artificial intelligence called [Ask AI](https://askainow.com), where you can follow with practical exercises, examples, online tests and more. 
 
 [![Ask AI](images/askai_logo.png)](https://askainow.com)
 
