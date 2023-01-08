@@ -1,13 +1,14 @@
 [![http://kevinashley.com](images/ka_labs.jpg)](http://kevinashley.com)
 
-With over 20 years of software development, Kevin Ashley Labs offers projects, guidance, products, books, art, training and advice. 
+With over 20 years of software development, millions of users of our games, sports and artificial intelligence products, Kevin Ashley Labs offers guidance, products, licensing, design, books, art, training and more. Kevin Ashley Labs studio is 
+a unique innovation driven shop that can help your business develop new products.
 
 ## What's new in 2023!
 
 - [NEW BOOK: Art of Prompts](https://www.amazon.com/dp/B0BBXQ7VQL)
-- [Ask AI](https://askainow.com) - AI education and training
-- [Livebook AI](https://livebookai.com) - AI created stories
-- [AI Kiosks](https://livebookai.com/post/kiosk) - AI Kiosk
+- [Ask AI](https://askainow.com) - AI training and learning
+- [Livebook AI](https://livebookai.com/category) - AI created stories
+- [AI Kiosks](https://livebookai.com/post/kiosk) - AI Kiosks
 
 ## The Art of Prompts for Artificial Intelligence
 
