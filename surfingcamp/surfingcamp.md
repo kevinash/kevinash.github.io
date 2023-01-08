@@ -2,7 +2,7 @@
 
 [![http://kevinashley.com/surfingcamp/surfingcamp.md](images/surfing-camp.jpg)](http://kevinashley.com/surfingcamp/surfingcamp.md)
 
-Join us for 2 or 3 days (3rd day is optional) in the surfing paradise of sunny California, for our first surfing geek camp, coming Summer 2023. This camp is for anyone who wants to learn to surf (any level beginner - intermediate - advanced) and apply technology, data science and artificial intelligence. It is perfect for data scientists passionate about sports and surfing.
+Join us for 2 or 3 days (3rd day is optional) in the surfing paradise of sunny California, for our first surfing geek camp, coming Summer 2023. This camp is for anyone who wants to learn to surf (any level beginner - intermediate - advanced) and apply technology, data science and artificial intelligence. It is perfect for data scientists passionate about sports and surfing. 
 
 ## Location
 
@@ -10,7 +10,7 @@ California, Orange County, surfing paradise. Near surf town of San Clemente (Cal
 
 ## When
 
-Summer, 2023 (between June and August). Exact dates will be announced here.
+Summer, 2023 (July or August). Exact dates will be announced here.
 
 ## Schedule
 
@@ -21,7 +21,7 @@ Summer, 2023 (between June and August). Exact dates will be announced here.
     - Noon 
         - Lunch break
     - Afternoon
-        - Analysis (Video, AI)
+        - Analysis (Video, Photograhy, AI)
 - Day 2
     - Morning 
         - Stretching and getting ready
@@ -29,10 +29,10 @@ Summer, 2023 (between June and August). Exact dates will be announced here.
     - Noon 
         - Lunch break
     - Afternoon
-        - Analysis (Video, AI)
+        - Analysis (Video, Photograhy, AI)
 - Day 3 (Optional for Summary, Fun, Extra Videos and Results)
     - Morning 
-        - Surfing, Fun, Extra Videos
+        - Surfing, Fun, Extra Videos, Photograhy
         - Results
 
 ## Pricing
@@ -51,6 +51,7 @@ In addition to the videos, each participant will get video analysis with AI and 
 - Book
 [![http://kevinashley.com](images/applied_ml_health_fitness_med.jpg)](https://www.amazon.com/gp/product/B08GLG5CFG)
 - Video
+- Photography
 - Artificial Intelligence (AI) analysis
 
 ## Links

@@ -2,14 +2,6 @@
 
 Kevin Ashley Labs developed products enjoyed by millions of users. Some are even installed in the museums (for example [AI Kiosk](https://livebookai.com/post/kiosk) for Computer History Museum in Silicon Valley). 
 
-## Ask AI
-
-[![Ask AI](images/askai_logo.png)](https://askainow.com)
-
-AskAI is a learning, testing and certification platform powered by Artificial Intelligence. It's a new way to learn, prepare for tests, exams and interviews and evaluate your candidates and skills. Because our platform is powered by artificial intelligence, it can answer most top companies interview questions with ease!
-
-[![Ask AI](https://img.youtube.com/vi/i9GcLP074ZA/sddefault.jpg)](https://www.youtube.com/watch?v=i9GcLP074ZA) 
-
 ## Livebook AI Kiosk
 
 [![http://kevinashley.com](images/ai-kiosk.jpg)](https://livebookai.com/post/kiosk)
@@ -19,6 +11,14 @@ A.I. Digital Signage - Impress your visitors with customized and interactive con
 It requires a Business subscription to Livebook AI service. The displayed content is customizable for your audience. 
 
 [![Livebook AI Kiosk](https://img.youtube.com/vi/JjtaNWW6Z34/sddefault.jpg)](https://youtube.com/shorts/JjtaNWW6Z34)
+
+## Ask AI
+
+[![Ask AI](images/askai_logo.png)](https://askainow.com)
+
+AskAI is a learning, testing and certification platform powered by Artificial Intelligence. It's a new way to learn, prepare for tests, exams and interviews and evaluate your candidates and skills. Because our platform is powered by artificial intelligence, it can answer most top companies interview questions with ease!
+
+[![Ask AI](https://img.youtube.com/vi/i9GcLP074ZA/sddefault.jpg)](https://www.youtube.com/watch?v=i9GcLP074ZA) 
 
 ## Active Fitness
 
