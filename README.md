@@ -1,7 +1,6 @@
 [![http://kevinashley.com](images/ka_labs.jpg)](http://kevinashley.com)
 
-With over 20 years of software development, millions of users of our games, sports and artificial intelligence products, Kevin Ashley Labs offers guidance, products, licensing, design, books, art, training and more. Kevin Ashley Labs studio is 
-a unique innovation driven shop that can help your business develop new products.
+With over 20 years of product development, working with top companies like Microsoft, millions of apps users, Kevin Ashley Labs offers [training](https://askainow.com), [training](https://askainow.com), products, licensing, [books](https://www.amazon.com/dp/B0BBXQ7VQL), design, and more. We are unique innovation driven shop that can help your business develop new products.
 
 ## What's new in 2023!
 
