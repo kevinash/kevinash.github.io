@@ -1,7 +1,7 @@
 [![http://kevinashley.com](images/kalabs.jpg)](http://kevinashley.com)
 
 
-Kevin Ashley Labs (KA-Labs) supports technology and innovation. Kevin is a Microsoft Developer Hall of Fame engineer and Microsoft CTO AI Challenge winner, author of several popular books about artificial intelligence, founder of Ask AI, and many popular sports, gaming and fitness apps such with several million users. He is a passionate technical speaker, founder of several startups and ventures. KA-Labs offers training, guidance, product and AI design, [books](https://www.amazon.com/dp/B0BBXQ7VQL), products and prototypes, design, and more. We are unique innovation driven shop that can help your business develop new products.
+Kevin Ashley Labs (KA-Labs) supports technology and innovation. Kevin is a Microsoft Developer Hall of Fame engineer and Microsoft CTO AI Challenge winner, author, founder of Ask AI, and many popular sports, gaming and fitness apps such with several million users. KA-Labs offers training, guidance, product and AI design, [books](/books/books.md), products and prototypes, design, and more. We are unique innovation driven shop that can help your business develop new products.
 
 ## What's new in 2023!
 

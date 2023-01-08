@@ -6,7 +6,7 @@ Join us for 2 days in the surfing paradise of sunny California, for a surfing sc
 
 [Sign Up](https://docs.google.com/forms/d/e/1FAIpQLScXdsfbKFUxMy-CIIvuNawVKA0dfEwl-9Xtrhyn2IlRk5VQDg/viewform?usp=sf_link). 
 
-This camp is for anyone who wants to learn to surf (any level beginner - intermediate - advanced) and learn how to apply technology, data science and artificial intelligence.
+This camp is for anyone who wants to learn to surf (any level beginner - intermediate - advanced) and apply technology, data science and artificial intelligence. It is perfect for data scientists passionate about sports and surfing.
 
 Each participant will get video analysis with AI and Kevin Ashley's [book](https://www.amazon.com/gp/product/B08GLG5CFG) that became classics of A.I. in sports, used by many sports scientists, you'll also get access to data science  [video course](https://ai-learning.vhx.tv/). 
 
