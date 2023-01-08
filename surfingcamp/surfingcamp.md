@@ -35,6 +35,7 @@ Summer, 2023 (July or August). Exact dates will be announced here.
 - Day 3 (Optional for Summary, Fun, Extra Videos and Results)
     - Morning 
         - Surfing, Fun, Extra Videos, Photograhy
+    - Noon
         - Results
 
 ## Pricing
