@@ -1,6 +1,6 @@
-[![http://kevinashley.com](images/banner_art_of_prompts.jpg)](https://www.amazon.com/dp/B0BBXQ7VQL)
+[![http://kevinashley.com](images/ka_labs.png)](http://kevinashley.com)
 
-With over 20 years of software development, Kevin Ashley Studio is our showcase collection of projects, products, books, art, events from Kevin Ashley and our team. 
+With over 20 years of software development, Kevin Ashley Labs is a showcase collection of projects, products, books, art, events from Kevin Ashley and team. 
 
 ## Happy New Year 2023!
 
@@ -10,6 +10,8 @@ With over 20 years of software development, Kevin Ashley Studio is our showcase 
 [AI Kiosks](https://livebookai.com/post/kiosk)
 
 ## The Art of Prompts for Artificial Intelligence
+
+[![http://kevinashley.com](images/banner_art_of_prompts.jpg)](https://www.amazon.com/dp/B0BBXQ7VQL)
 
 _**NEW BOOK! Amazon Bestseller in Neural Networks, Arts**_
 
