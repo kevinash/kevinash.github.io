@@ -4,7 +4,7 @@
 
 Join us for 2 days in the surfing paradise of sunny California, for a surfing science camp, coming Summer 2023.
 
-[Sign Up for camp](https://docs.google.com/forms/d/e/1FAIpQLScXdsfbKFUxMy-CIIvuNawVKA0dfEwl-9Xtrhyn2IlRk5VQDg/viewform?usp=sf_link). 
+[Sign Up](https://docs.google.com/forms/d/e/1FAIpQLScXdsfbKFUxMy-CIIvuNawVKA0dfEwl-9Xtrhyn2IlRk5VQDg/viewform?usp=sf_link). 
 
 This camp is for anyone who wants to learn to surf (any level beginner - intermediate - advanced) and learn how to apply technology, data science and artificial intelligence.
 
@@ -43,3 +43,5 @@ Summer, 2023 (between June and August)
 [![http://kevinashley.com](images/applied_ml_health_fitness_med.jpg)](https://www.amazon.com/gp/product/B08GLG5CFG)
 - Video
 - Artificial Intelligence (AI) analysis
+
+[Sign Up](https://docs.google.com/forms/d/e/1FAIpQLScXdsfbKFUxMy-CIIvuNawVKA0dfEwl-9Xtrhyn2IlRk5VQDg/viewform?usp=sf_link). 
