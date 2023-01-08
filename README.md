@@ -1,13 +1,13 @@
-[![http://kevinashley.com](images/ka_labs.png)](http://kevinashley.com)
+[![http://kevinashley.com](images/ka_labs.jpg)](http://kevinashley.com)
 
 With over 20 years of software development, Kevin Ashley Labs is a showcase collection of projects, products, books, art, events from Kevin Ashley and team. 
 
-## Happy New Year 2023!
+## What's new in 2023!
 
-[NEW BOOK: Art of Prompts](https://www.amazon.com/dp/B0BBXQ7VQL)
-[Ask AI](https://askainow.com)
-[Livebook AI](https://livebookai.com)
-[AI Kiosks](https://livebookai.com/post/kiosk)
+- [NEW BOOK: Art of Prompts](https://www.amazon.com/dp/B0BBXQ7VQL)
+- [Ask AI](https://askainow.com) - AI education and training
+- [Livebook AI](https://livebookai.com) - AI created stories
+- [AI Kiosks](https://livebookai.com/post/kiosk) - AI Kiosk
 
 ## The Art of Prompts for Artificial Intelligence
 
