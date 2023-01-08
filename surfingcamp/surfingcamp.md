@@ -48,5 +48,7 @@ The cost of the camp is $1,500 for the camp, training materials, coaching, video
 - Video
 - Artificial Intelligence (AI) analysis
 
-[Sign Up](https://docs.google.com/forms/d/e/1FAIpQLScXdsfbKFUxMy-CIIvuNawVKA0dfEwl-9Xtrhyn2IlRk5VQDg/viewform?usp=sf_link)
-[Payment](https://buy.stripe.com/3csaGk4Qk2byfqo7sw) 
+## Links
+
+- [Sign Up](https://docs.google.com/forms/d/e/1FAIpQLScXdsfbKFUxMy-CIIvuNawVKA0dfEwl-9Xtrhyn2IlRk5VQDg/viewform?usp=sf_link)
+- [Payment](https://buy.stripe.com/3csaGk4Qk2byfqo7sw) 
