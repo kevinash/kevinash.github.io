@@ -10,8 +10,6 @@ This camp is for anyone who wants to learn to surf (any level beginner - interme
 
 Each participant will get video analysis with AI and Kevin Ashley's book that became classics of A.I. in sports, used by many sports scientists. For this book you can also check my complete video course [AI in Sports with Python](https://ai-learning.vhx.tv/) with multiple notebooks and tutorials.
 
-[![http://kevinashley.com](images/applied_ml_health_fitness_med.jpg)](https://www.amazon.com/gp/product/B08GLG5CFG)
-
 ## Where
 
 California, Orange County, surfing paradise. Near San Clamente, and Trestles (world known location for world level surf competitions). Exact location TBD.
