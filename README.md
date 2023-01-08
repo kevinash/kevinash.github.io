@@ -1,6 +1,6 @@
 [![http://kevinashley.com](images/kalabs.jpg)](http://kevinashley.com)
 
-With over 20 years of product development, working with top companies like Microsoft, millions of apps users, Kevin Ashley Labs offers [training](https://askainow.com), [training](https://askainow.com), products, licensing, [books](https://www.amazon.com/dp/B0BBXQ7VQL), design, and more. We are unique innovation driven shop that can help your business develop new products.
+With over 20 years of product development, working with top companies like Microsoft, millions of apps users, Kevin Ashley Labs offers AI product design, development, [training](https://askainow.com), licensing, [books](https://www.amazon.com/dp/B0BBXQ7VQL), design, and more. We are unique innovation driven shop that can help your business develop new products.
 
 ## What's new in 2023!
 
