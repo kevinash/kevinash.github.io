@@ -4,6 +4,8 @@
 
 Join us for 2 or 3 days (3rd day is optional) in the surfing paradise of sunny California, for our first surfing geek camp, coming Summer 2023. This camp is for anyone who wants to learn to surf (any level beginner - intermediate - advanced) and apply technology, data science and artificial intelligence. It is perfect for data scientists passionate about sports and surfing. 
 
+You'll be filmed, photographed, analyzed with artificial intelligence, given instruction and coaching advice, and get access to [book](https://www.amazon.com/gp/product/B08GLG5CFG), [training](https://ai-learning.vhx.tv/) materials, [art](https://sway.office.com/JQ2ga7hjEJcMHVy5) and more. 
+
 ## Location
 
 California, Orange County, surfing paradise. Near surf town of San Clemente (California), and Trestles (world known location for world level surf competitions). Exact location TBD.
