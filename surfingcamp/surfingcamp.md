@@ -38,6 +38,8 @@ The cost of the camp is $1,500 for the camp, training materials, coaching, video
 - [Sign Up](https://docs.google.com/forms/d/e/1FAIpQLScXdsfbKFUxMy-CIIvuNawVKA0dfEwl-9Xtrhyn2IlRk5VQDg/viewform?usp=sf_link)
 - [Payment](https://buy.stripe.com/3csaGk4Qk2byfqo7sw) 
 
+> Funds will be used to support technology, sports education, the sport of surfing and future camps. We hope to make these camps a regular event for anyone passionate about sports and technology.
+
 ## Training Materials
 
 In addition to the videos, each participant will get video analysis with AI and the [book](https://www.amazon.com/gp/product/B08GLG5CFG), you'll also get access to data science  [video course](https://ai-learning.vhx.tv/). 
