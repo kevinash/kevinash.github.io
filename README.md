@@ -1,6 +1,6 @@
 [![http://kevinashley.com](images/ka_labs.jpg)](http://kevinashley.com)
 
-With over 20 years of software development, Kevin Ashley Labs is a showcase collection of projects, products, books, art, events from Kevin Ashley and team. 
+With over 20 years of software development, Kevin Ashley Labs offers projects, guidance, products, books, art, training and advice. 
 
 ## What's new in 2023!
 
