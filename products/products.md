@@ -1,6 +1,6 @@
 # Products
 
-Kevin Ashley Labs developed fantastic products that millions of users enjoy. Some of these products are even installed in the museums (for example [AI Kiosk](https://livebookai.com/post/kiosk) for Computer History Museum in Silicon Valley). Kevin Ashley Labs developed all types of products: from artificial intelligence systems like [Ask AI](https://askainow.com), [Livebook AI](https://livebookai.com), to games and fitness and sports apps like Active Fitness and Winter Sports.
+Kevin Ashley Labs developed products enjoyed by millions of users. Some are even installed in the museums (for example [AI Kiosk](https://livebookai.com/post/kiosk) for Computer History Museum in Silicon Valley). 
 
 ## Ask AI
 
@@ -23,6 +23,8 @@ It requires a Business subscription to Livebook AI service. The displayed conten
 ## Active Fitness
 
 Active Fitness is a sport and fitness platform with 2,000,000+ users. If you are interested in Active Fitness development, please [ping me on LinkedIn](https://www.linkedin.com/in/kashlik/).
+
+[![http://kevinashley.com](images/activefitness-screen-surface.png)](https://kevinashley.com)
 
 ## Games
 
