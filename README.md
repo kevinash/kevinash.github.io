@@ -1,7 +1,7 @@
 [![http://kevinashley.com](images/kalabs.jpg)](http://kevinashley.com)
 
 
-[Kevin Ashley Labs (KA-Labs)](http://kevinashley.com) is founded to support innovation by Kevin Ashley, [author](/books/books.md), Microsoft Developer Hall of Fame engineer and Microsoft CTO AI Challenge winner, author of many popular apps with several million users. We offer training, guidance, product and AI design, [books](/books/books.md), products, prototyping, and more. 
+[Kevin Ashley Labs (KA-Labs)](http://kevinashley.com) is founded to support innovation by Kevin Ashley, [author](/books/books.md), Microsoft Developer Hall of Fame engineer and Microsoft CTO AI Challenge winner, author of many popular apps with several million users. We offer training, guidance, [product](/products/products.md) and AI design, [books](/books/books.md), prototyping, [learning events](/surfingcamp/surfingcamp.md) and more. 
 
 ## What's new in 2023!
 
