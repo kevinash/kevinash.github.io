@@ -2,21 +2,15 @@
 
 [![http://kevinashley.com/surfingcamp/surfingcamp.md](images/surfing-camp.jpg)](http://kevinashley.com/surfingcamp/surfingcamp.md)
 
-Join us for 2 days in the surfing paradise of sunny California, for our first surfing science camp, coming Summer 2023.
+Join us for 2 days in the surfing paradise of sunny California, for our first surfing science camp, coming Summer 2023. This camp is for anyone who wants to learn to surf (any level beginner - intermediate - advanced) and apply technology, data science and artificial intelligence. It is perfect for data scientists passionate about sports and surfing.
 
-[Sign Up](https://docs.google.com/forms/d/e/1FAIpQLScXdsfbKFUxMy-CIIvuNawVKA0dfEwl-9Xtrhyn2IlRk5VQDg/viewform?usp=sf_link). 
-
-This camp is for anyone who wants to learn to surf (any level beginner - intermediate - advanced) and apply technology, data science and artificial intelligence. It is perfect for data scientists passionate about sports and surfing.
-
-Each participant will get video analysis with AI and Kevin Ashley's [book](https://www.amazon.com/gp/product/B08GLG5CFG) that became classics of A.I. in sports, used by many sports scientists, you'll also get access to data science  [video course](https://ai-learning.vhx.tv/). 
-
-## Where
+## Location
 
 California, Orange County, surfing paradise. Near surf town of San Clemente (California), and Trestles (world known location for world level surf competitions). Exact location TBD.
 
 ## When
 
-Summer, 2023 (between June and August)
+Summer, 2023 (between June and August). Exact dates will be announced here.
 
 ## Schedule
 
@@ -41,7 +35,12 @@ Summer, 2023 (between June and August)
 
 The cost of the camp is $1,500 for the camp, training materials, coaching, video and AI analysis. Please, reserve your own lodging: town of San Clemente has plenty of great lodging available. After you [sign up](https://docs.google.com/forms/d/e/1FAIpQLScXdsfbKFUxMy-CIIvuNawVKA0dfEwl-9Xtrhyn2IlRk5VQDg/viewform?usp=sf_link) for the camp, please [submit your payment](https://buy.stripe.com/3csaGk4Qk2byfqo7sw). Payment must be made before we start the camp. Group pricing is available, please contact us at info@livebookai.com.
 
-## Materials
+- [Sign Up](https://docs.google.com/forms/d/e/1FAIpQLScXdsfbKFUxMy-CIIvuNawVKA0dfEwl-9Xtrhyn2IlRk5VQDg/viewform?usp=sf_link)
+- [Payment](https://buy.stripe.com/3csaGk4Qk2byfqo7sw) 
+
+## Training Materials
+
+In addition to the videos, each participant will get video analysis with AI and the [book](https://www.amazon.com/gp/product/B08GLG5CFG), you'll also get access to data science  [video course](https://ai-learning.vhx.tv/). 
 
 - Book
 [![http://kevinashley.com](images/applied_ml_health_fitness_med.jpg)](https://www.amazon.com/gp/product/B08GLG5CFG)
