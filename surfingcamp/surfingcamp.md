@@ -1,4 +1,4 @@
-## Surfing Science Camp
+# Surfing Science Camp
 
 [![http://kevinashley.com/surfingcamp/surfingcamp.md](images/surfing-camp.jpg)](http://kevinashley.com/surfingcamp/surfingcamp.md)
 
