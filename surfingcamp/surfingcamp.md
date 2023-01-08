@@ -39,8 +39,7 @@ Summer, 2023 (between June and August)
 
 ## Pricing
 
-The cost of the camp is $1,500 for the camp, trainign materials, coaching, video and AI analysis. Please, reserve your own lodging: town of San Clemente has plenty of great lodging available. We'll send you instructions for payment once you [sign up](https://docs.google.com/forms/d/e/1FAIpQLScXdsfbKFUxMy-CIIvuNawVKA0dfEwl-9Xtrhyn2IlRk5VQDg/viewform?usp=sf_link) for the camp. Payment must be made before we start the camp.
-Group pricing is available, please contact us at info@livebookai.com.
+The cost of the camp is $1,500 for the camp, trainign materials, coaching, video and AI analysis. Please, reserve your own lodging: town of San Clemente has plenty of great lodging available. After you [sign up](https://docs.google.com/forms/d/e/1FAIpQLScXdsfbKFUxMy-CIIvuNawVKA0dfEwl-9Xtrhyn2IlRk5VQDg/viewform?usp=sf_link) for the camp, please [submit your payment](https://buy.stripe.com/3csaGk4Qk2byfqo7sw). Payment must be made before we start the camp. Group pricing is available, please contact us at info@livebookai.com.
 
 ## Materials
 
