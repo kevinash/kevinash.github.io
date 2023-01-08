@@ -3,8 +3,14 @@
 [![http://kevinashley.com/surfingcamp/surfingcamp.md](images/surfing-camp.jpg)](http://kevinashley.com/surfingcamp/surfingcamp.md)
 
 Join us for 2 days in the surfing paradise of sunny California, for a surfing science camp, coming Summer 2023.
-[Sign Up for camp](https://docs.google.com/forms/d/e/1FAIpQLScXdsfbKFUxMy-CIIvuNawVKA0dfEwl-9Xtrhyn2IlRk5VQDg/viewform?usp=sf_link). This camp is for anyone who wants to learn to surf (any level beginner - intermediate - advanced) and learn how to apply technology, data science and artificial intelligence.
+
+[Sign Up for camp](https://docs.google.com/forms/d/e/1FAIpQLScXdsfbKFUxMy-CIIvuNawVKA0dfEwl-9Xtrhyn2IlRk5VQDg/viewform?usp=sf_link). 
+
+This camp is for anyone who wants to learn to surf (any level beginner - intermediate - advanced) and learn how to apply technology, data science and artificial intelligence.
+
 Each participant will get video analysis with AI and Kevin Ashley's book that became classics of A.I. in sports, used by many sports scientists. For this book you can also check my complete video course [AI in Sports with Python](https://ai-learning.vhx.tv/) with multiple notebooks and tutorials.
+
+[![http://kevinashley.com](images/applied_ml_health_fitness_med.jpg)](https://www.amazon.com/gp/product/B08GLG5CFG)
 
 ## Where
 
@@ -17,23 +23,25 @@ Summer, 2023 (between June and August)
 ## Schedule
 
 - Day 1 
-    Morning 
+    - Morning 
         - Stretching and getting ready
         - Surfing and instruction
-    Noon 
+    - Noon 
         - Lunch break
-    Afternoon
-        - Video analysis with AI
+    - Afternoon
+        - Analysis (Video, AI)
 - Day 2
-        Morning 
+    - Morning 
         - Stretching and getting ready
         - Surfing and instruction
-    Noon 
+    - Noon 
         - Lunch break
-    Afternoon
-        - Video analysis with AI
+    - Afternoon
+        - Analysis (Video, AI)
 
+## Materials
 
-## Book
-
+- Book
 [![http://kevinashley.com](images/applied_ml_health_fitness_med.jpg)](https://www.amazon.com/gp/product/B08GLG5CFG)
+- Video
+- Artificial Intelligence (AI) analysis
