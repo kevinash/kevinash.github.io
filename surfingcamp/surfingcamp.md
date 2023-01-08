@@ -2,7 +2,7 @@
 
 [![http://kevinashley.com/surfingcamp/surfingcamp.md](images/surfing-camp.jpg)](http://kevinashley.com/surfingcamp/surfingcamp.md)
 
-Join us for 2 days in the surfing paradise of sunny California, for a surfing science camp, coming Summer 2023.
+Join us for 2 days in the surfing paradise of sunny California, for our first surfing science camp, coming Summer 2023.
 
 [Sign Up](https://docs.google.com/forms/d/e/1FAIpQLScXdsfbKFUxMy-CIIvuNawVKA0dfEwl-9Xtrhyn2IlRk5VQDg/viewform?usp=sf_link). 
 
