@@ -10,6 +10,8 @@ With over 20 years of product development, working with top companies like Micro
 - [AI Kiosks](https://livebookai.com/post/kiosk) - AI Kiosks
 - [Surfing Science Camp 2023](/surfingcamp/surfingcamp.md) - Surfing Science Camp 2023
 
+# Books
+
 ## The Art of Prompts for Artificial Intelligence
 
 [![http://kevinashley.com](images/banner_art_of_prompts.jpg)](https://www.amazon.com/dp/B0BBXQ7VQL)
