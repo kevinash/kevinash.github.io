@@ -57,3 +57,4 @@ In addition to the videos, each participant will get video analysis with AI and 
 
 - [Sign Up](https://docs.google.com/forms/d/e/1FAIpQLScXdsfbKFUxMy-CIIvuNawVKA0dfEwl-9Xtrhyn2IlRk5VQDg/viewform?usp=sf_link)
 - [Payment](https://buy.stripe.com/3csaGk4Qk2byfqo7sw) 
+- Refunds: if you already paid but cannot make it to the camp, please e-mail us info@livebookai.com, and we'll refund your payment. 
