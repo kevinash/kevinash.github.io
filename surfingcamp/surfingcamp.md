@@ -1,4 +1,4 @@
-# Surfing Science Camp
+# Surfing Science Camp 2023
 
 [![http://kevinashley.com/surfingcamp/surfingcamp.md](images/surfing-camp.jpg)](http://kevinashley.com/surfingcamp/surfingcamp.md)
 
@@ -12,7 +12,7 @@ Each participant will get video analysis with AI and Kevin Ashley's [book](https
 
 ## Where
 
-California, Orange County, surfing paradise. Near San Clamente, and Trestles (world known location for world level surf competitions). Exact location TBD.
+California, Orange County, surfing paradise. Near surf town of San Clemente (California), and Trestles (world known location for world level surf competitions). Exact location TBD.
 
 ## When
 
@@ -48,4 +48,5 @@ The cost of the camp is $1,500 for the camp, training materials, coaching, video
 - Video
 - Artificial Intelligence (AI) analysis
 
-[Sign Up](https://docs.google.com/forms/d/e/1FAIpQLScXdsfbKFUxMy-CIIvuNawVKA0dfEwl-9Xtrhyn2IlRk5VQDg/viewform?usp=sf_link). 
+[Sign Up](https://docs.google.com/forms/d/e/1FAIpQLScXdsfbKFUxMy-CIIvuNawVKA0dfEwl-9Xtrhyn2IlRk5VQDg/viewform?usp=sf_link)
+[Payment](https://buy.stripe.com/3csaGk4Qk2byfqo7sw) 

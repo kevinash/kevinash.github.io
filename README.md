@@ -6,10 +6,10 @@
 ## What's new in 2023!
 
 - [NEW BOOK: Art of Prompts](https://www.amazon.com/dp/B0BBXQ7VQL)
+- [Surfing Science Camp 2023](/surfingcamp/surfingcamp.md) - Surfing Science Camp 2023
 - [Ask AI](https://askainow.com) - AI training and learning
 - [Livebook AI](https://livebookai.com/category) - AI created stories
 - [AI Kiosks](https://livebookai.com/post/kiosk) - AI Kiosks
-- [Surfing Science Camp 2023](/surfingcamp/surfingcamp.md) - Surfing Science Camp 2023
 
 ## The Art of Prompts for Artificial Intelligence
 
