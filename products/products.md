@@ -26,7 +26,7 @@ AskAI is a learning, testing and certification platform powered by Artificial In
 
 [Stories.JSON](https://github.com/kevinash/Stories.JSON) is an open source format created by [Kevin Ashley Labs](http://kevinashley.com) for composing large language models such as GPT, ChatGPT, Codex, Stable Diffusion etc. This format is used by [Ask AI](https://askainow.com), [Livebook AI](https://livebookai.com) and many other applications for prompt composition.
 
-If you are interested in a Python library for automating Stories.JSON and the composition engine, please contact [Kevin Ashley](http://kevinashley.com).
+If you are interested in a Python library for automating Stories.JSON and the composition engine, please contact [Kevin Ashley](https://www.linkedin.com/in/kashlik/).
 
 Link to [Stories.JSON](https://github.com/kevinash/Stories.JSON) open source format.
 
