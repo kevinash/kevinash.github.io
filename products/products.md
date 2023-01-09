@@ -20,6 +20,16 @@ AskAI is a learning, testing and certification platform powered by Artificial In
 
 [![Ask AI](https://img.youtube.com/vi/i9GcLP074ZA/sddefault.jpg)](https://www.youtube.com/watch?v=i9GcLP074ZA) 
 
+## Stories.JSON
+
+![Stories.JSON](images/stories_json_logo.png)
+
+[Stories.JSON](https://github.com/kevinash/Stories.JSON) is an open source format created by [Kevin Ashley Labs](http://kevinashley.com) for composing large language models such as GPT, ChatGPT, Codex, Stable Diffusion etc. This format is used by [Ask AI](https://askainow.com), [Livebook AI](https://livebookai.com) and many other applications for prompt composition.
+
+If you are interested in a Python library for automating Stories.JSON and the composition engine, please contact [Kevin Ashley](http://kevinashley.com).
+
+Link to [Stories.JSON](https://github.com/kevinash/Stories.JSON) open source format.
+
 ## Active Fitness
 
 Active Fitness is a sport and fitness platform with 2,000,000+ users. If you are interested in Active Fitness development, please [ping me on LinkedIn](https://www.linkedin.com/in/kashlik/).
