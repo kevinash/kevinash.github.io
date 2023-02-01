@@ -6,7 +6,7 @@ The lab's primary objective is supporting innovation and connection with everyda
 ## What's new in 2023!
 
 - [NEW BOOK: Art of Prompts](https://www.amazon.com/dp/B0BBXQ7VQL)
-- [https://livebookai.com/post/mz34jnq9penakbep) -  Make beautiful documents from GPT
+- [FormatGPT](https://livebookai.com/post/mz34jnq9penakbep) -  Make beautiful documents from GPT
 - [Ask AI](https://askainow.com) - AI training and learning
 - [Livebook AI](https://livebookai.com/category) - AI created stories
 - [AI Kiosks](https://livebookai.com/post/kiosk) - AI Kiosks
