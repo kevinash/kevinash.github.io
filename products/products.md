@@ -20,6 +20,12 @@ AskAI is a learning, testing and certification platform powered by Artificial In
 
 [![Ask AI](https://img.youtube.com/vi/i9GcLP074ZA/sddefault.jpg)](https://www.youtube.com/watch?v=i9GcLP074ZA) 
 
+## FormatGPT
+
+[![FormatGPT](images/FormatGPT.png)](https://formatgpt.com)
+
+Make rich documents from GPT models. 
+
 ## Stories.JSON
 
 ![Stories.JSON](images/stories_json_logo.png)
