@@ -2,11 +2,13 @@
 
 # FormatGPT
 
-Announcing FormatGPT, the engine used in Ask AI, Livebook AI, and AI Kiosks to create formatted output from GPT models developed by Kevin Ashley Labs. Based on an industry standard [Stories.JSON](https://github.com/kevinash/Stories.JSON) format specification for FormatGPT. Check [sample](https://livebookai.com/post/7q9epv66j7vd4zma) documents.
+Announcing FormatGPT, the engine used in [Ask AI](https://askainow.com), [Livebook AI](https://livebookai.com/category), and [AI Kiosks](https://livebookai.com/post/kiosk) to create formatted output from GPT models developed by Kevin Ashley Labs. Based on an industry standard [Stories.JSON](https://github.com/kevinash/Stories.JSON) format specification for FormatGPT. 
+
+Check [sample](https://livebookai.com/post/7q9epv66j7vd4zma) documents created with FormatGPT.
 
 FormatGPT features:
 
-- Create rich beautiful documents from multiple GPT models
+- Create editable rich beautiful documents from multiple GPT models
 - Schedule and run GPT model jobs
 - Quality control for GPT model output
 - Validation and verification of GPT output
