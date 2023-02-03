@@ -1,10 +1,6 @@
-# FormatGPT
-
 [![http://kevinashley.com](images/FormatGPT.gif)](https://livebookai.com/post/mz34jnq9penakbep)
 
-Format GPT output to make beautiful documents. 
-
-[FormatGPT](https://livebookai.com/post/mz34jnq9penakbep) is a new API that can help you making beautiful documents from the GPT models.
+# FormatGPT
 
 Announcing FormatGPT, the engine used in Ask AI, Livebook AI, and AI Kiosks to create formatted output from GPT models developed by Kevin Ashley Labs. Based on an industry standard [Stories.JSON](https://github.com/kevinash/Stories.JSON) format specification for FormatGPT. Check [sample](https://livebookai.com/post/7q9epv66j7vd4zma) documents.
 
