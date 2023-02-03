@@ -14,8 +14,6 @@ FormatGPT features:
 - Insert advertising and custom content in GPT output
 - Provides a powerful workflow engine for GPT tasks
 
-If you are interested in FormatGPT, please contact [Kevin Ashley](https://www.linkedin.com/in/kashlik/) on LinkedIn. The engine is available for commercial licensing.
-
 ## Showcases
 
 Stories.JSON is used in the following projects:
@@ -26,9 +24,9 @@ Stories.JSON is used in the following projects:
 
 ![AI Kiosk](/images/ai-kiosk.png) - [AI Kiosk](https://livebookai.com/post/kiosk) at the Computer History Museum
 
-[Interview with Artificial Intelligence](https://www.amazon.com/dp/B0BNV3MN53) book - Uses Stories.JSON for code examples
 
-![Interview with Artificial Intelligence](/images/book-cover-200.png)
+[![http://kevinashley.com](images/formatgpt-1.jpg)](https://livebookai.com/post/mz34jnq9penakbep)
 
+## Availability
 
-[![http://kevinashley.com](images/formatgpt-overview.png)](https://livebookai.com/post/mz34jnq9penakbep)
+If you are interested in FormatGPT, please contact [Kevin Ashley](https://www.linkedin.com/in/kashlik/) on LinkedIn. The engine is available for commercial licensing.
