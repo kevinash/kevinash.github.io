@@ -115,3 +115,8 @@ Active Fitness is a sport and fitness platform with 2,000,000+ users. If you are
 ## Games
 
 If you are interested in games development, please [ping me on LinkedIn](https://www.linkedin.com/in/kashlik/)
+
+## Showcase Projects
+
+[Wall Street Journal](https://www.wsj.com/articles/olympic-surfing-rides-the-machine-learning-wave-11627379213)
+[Microsoft](https://unlocked.microsoft.com/usa-surf/)
