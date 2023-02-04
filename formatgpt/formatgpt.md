@@ -19,7 +19,7 @@ FormatGPT features:
 - Provides a powerful workflow engine for GPT tasks
 - API and Playground
 
-[![http://formatgpt.com](images/formatgpt-logo-512.png)](http://formatgpt.com)
+[![http://formatgpt.com](images/formatgpt-docs-logo-512.png)](http://formatgpt.com)
 
 ## Showcases
 
