@@ -1,4 +1,4 @@
-[![http://kevinashley.com](images/FormatGPT.gif)](https://livebookai.com/post/mz34jnq9penakbep)
+[![http://kevinashley.com](images/FormatGPT.gif)](http://formatgpt.com)
 
 # FormatGPT
 
@@ -18,6 +18,8 @@ FormatGPT features:
 - Insert advertising and custom content in GPT output
 - Provides a powerful workflow engine for GPT tasks
 - API and Playground
+
+[![http://formatgpt.com](images/formatgpt-logo-512.png)](http://formatgpt.com)
 
 ## Showcases
 
