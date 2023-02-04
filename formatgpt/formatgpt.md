@@ -2,7 +2,7 @@
 
 # FormatGPT
 
-**Coming Soon! Check [FormatGPT.com](http://formatgpt.com) for updates.**
+**Coming Soon! Check [FormatGPT.com](http://formatgpt.com) for updates or [fill this form for early access](https://forms.gle/D2rKQLxbSXobvpKY8).**
 
 Announcing FormatGPT, the engine and API used in [Ask AI](https://askainow.com), [Livebook AI](https://livebookai.com/category), and [AI Kiosks](https://livebookai.com/post/kiosk) to create formatted output from GPT models developed by Kevin Ashley Labs. Based on an industry standard [Stories.JSON](https://github.com/kevinash/Stories.JSON) format specification for FormatGPT. 
 
@@ -34,4 +34,4 @@ Stories.JSON is used in the following projects:
 
 ## Availability
 
-If you are interested in FormatGPT, please contact [Kevin Ashley](https://www.linkedin.com/in/kashlik/) on LinkedIn. The engine is available for commercial licensing.
+If you are interested in FormatGPT, please [fill this form for early access](https://forms.gle/D2rKQLxbSXobvpKY8) or contact [Kevin Ashley](https://www.linkedin.com/in/kashlik/) on LinkedIn. The engine is available for commercial licensing.
