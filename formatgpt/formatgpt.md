@@ -2,7 +2,7 @@
 
 # FormatGPT
 
-Coming Soon! Check [FormatGPT.com](http://formatgpt.com) for updates.
+**Coming Soon! Check [FormatGPT.com](http://formatgpt.com) for updates.**
 
 Announcing FormatGPT, the engine and API used in [Ask AI](https://askainow.com), [Livebook AI](https://livebookai.com/category), and [AI Kiosks](https://livebookai.com/post/kiosk) to create formatted output from GPT models developed by Kevin Ashley Labs. Based on an industry standard [Stories.JSON](https://github.com/kevinash/Stories.JSON) format specification for FormatGPT. 
 
@@ -17,6 +17,7 @@ FormatGPT features:
 - Compose multiple AI models in beautiful documents
 - Insert advertising and custom content in GPT output
 - Provides a powerful workflow engine for GPT tasks
+- API and Playground
 
 ## Showcases
 
