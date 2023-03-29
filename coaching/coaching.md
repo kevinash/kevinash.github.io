@@ -20,7 +20,7 @@ Kevin Ashley is a winner of multiple Microsoft career awards, including artifici
 All coaching sessions are done via video calls on Microsoft Teams or Google Meet.
 
 - An initial 30-minute session is free.
-- $199 for an individual 60-minute session
+- $199 for an individual 60-minute session 
 - $1200 for 6 60 minute sessions
 - $2000 for 12 60 minute sessions
 
