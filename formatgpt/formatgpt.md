@@ -1,6 +1,8 @@
-[![http://kevinashley.com](images/FormatGPT.gif)](https://livebookai.com/post/mz34jnq9penakbep)
+[![http://kevinashley.com](images/FormatGPT.gif)](http://formatgpt.com)
 
 # FormatGPT
+
+**Coming Soon! Check [FormatGPT.com](http://formatgpt.com) for updates or [fill this form for early access](https://forms.gle/D2rKQLxbSXobvpKY8).**
 
 Announcing FormatGPT, the engine and API used in [Ask AI](https://askainow.com), [Livebook AI](https://livebookai.com/category), and [AI Kiosks](https://livebookai.com/post/kiosk) to create formatted output from GPT models developed by Kevin Ashley Labs. Based on an industry standard [Stories.JSON](https://github.com/kevinash/Stories.JSON) format specification for FormatGPT. 
 
@@ -15,6 +17,9 @@ FormatGPT features:
 - Compose multiple AI models in beautiful documents
 - Insert advertising and custom content in GPT output
 - Provides a powerful workflow engine for GPT tasks
+- API and Playground
+
+[![http://formatgpt.com](images/formatgpt-docs-logo-512.png)](http://formatgpt.com)
 
 ## Showcases
 
@@ -31,4 +36,4 @@ Stories.JSON is used in the following projects:
 
 ## Availability
 
-If you are interested in FormatGPT, please contact [Kevin Ashley](https://www.linkedin.com/in/kashlik/) on LinkedIn. The engine is available for commercial licensing.
+If you are interested in FormatGPT, please [fill this form for early access](https://forms.gle/D2rKQLxbSXobvpKY8) or contact [Kevin Ashley](https://www.linkedin.com/in/kashlik/) on LinkedIn. The engine is available for commercial licensing.

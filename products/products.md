@@ -22,9 +22,11 @@ AskAI is a learning, testing and certification platform powered by Artificial In
 
 ## FormatGPT
 
-[![FormatGPT](images/FormatGPT.png)](https://formatgpt.com)
+[![FormatGPT](images/FormatGPT.png)](http://formatgpt.com)
 
-Make rich documents from GPT models. 
+Make rich documents from GPT models.
+
+[FormatGPT](http://FormatGPT.com) is a rich productivity platform for Business, providing an API to generate your documents.
 
 ## Stories.JSON
 
