@@ -1,7 +1,7 @@
 [![http://kevinashley.com](images/kalabs.jpg)](http://kevinashley.com)
 
 
-The lab's primary objective is supporting innovation and connection with everyday lives through product design. Founded by Kevin Ashley, [author](/books/books.md), Microsoft Developer Hall of Fame engineer and Microsoft CTO AI Challenge winner, author of many popular apps with several million users. Offering training, guidance, [product](/products/products.md) and AI design, [books](/books/books.md), prototyping, [learning events](/surfingcamp/surfingcamp.md) and more. 
+The lab's primary objective is supporting innovation and connection with everyday lives through product design. Founded by Kevin Ashley, [author](/books/books.md), Microsoft Developer Hall of Fame engineer and Microsoft CTO AI Challenge winner, author of many popular apps with several million users. Offering training, guidance, [product](/products/products.md) and AI design, [books](/books/books.md), prototyping, [learning events](/surfingcamp/surfingcamp.md), [coaching](/coaching/coaching.md) and more. 
 
 ## What's new in 2023!
 
