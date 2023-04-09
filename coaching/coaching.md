@@ -28,6 +28,6 @@ Payments are via [PayPal](https://www.paypal.me/askainow), Zelle or credit cards
 - $199 for an individual [1 hour session](https://calendly.com/askainow/kevin-ashley-1-hour) 
 - $1,000 for a package of [6 sessions](https://buy.stripe.com/eVa2a1e5b8tXe2I289)
 
-## Schedule an initial FREE coaching session with Kevin
+## Find time on my calendar now
 
 Find time on [my calendar](https://calendly.com/askainow/kevin-ashley-30-min) today. Need more time? Start with a [1 hour session](https://calendly.com/askainow/kevin-ashley-1-hour). 
