@@ -30,4 +30,4 @@ Payments are via [PayPal](https://www.paypal.me/askainow), Zelle or credit cards
 
 ## Find time on my calendar now
 
-Find time on [my calendar](https://calendly.com/askainow/kevin-ashley-30-min) today. Need more time? Start with a [1 hour session](https://calendly.com/askainow/kevin-ashley-1-hour). 
+Find time on my calendar for an [initial free 30 minute session](https://calendly.com/askainow/kevin-ashley-30-min) today. Need more time? Start with a [1 hour session](https://calendly.com/askainow/kevin-ashley-1-hour). 
