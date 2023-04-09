@@ -22,8 +22,9 @@ Kevin Ashley is a winner of multiple Microsoft career awards, including artifici
 ## Flexible Pricing Options
 
 All coaching sessions are done via video calls on Microsoft Teams or Google Meet.
+Payments are via [PayPal](https://www.paypal.me/askainow), Zelle or credit cards.
 
-- An initial 30-minute session is free.
+- An initial 30-minute session is [FREE](https://calendly.com/askainow/kevin-ashley-30-min).
 - $199 for an individual 60-minute session 
 - $1200 for 6 60 minute sessions
 - $2000 for 12 60 minute sessions
