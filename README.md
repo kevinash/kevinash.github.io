@@ -5,8 +5,9 @@ The lab's primary objective is supporting innovation and connection with everyda
 
 ## What's new in 2023!
 
+- [Want to talk about Coaching, Patents, Books or Partnerships](https://calendly.com/askainow) 
 - [NEW BOOK: Art of Prompts](https://www.amazon.com/dp/B0BBXQ7VQL)
-- [FormatGPT](/formatgpt/formatgpt.html) -  Make beautiful documents from GPT
+- [FormatGPT](/formatgpt/formatgpt.html) -  Make beautiful documents from GPT [Interested in US Patent? Book time on my calendar](https://calendly.com/askainow)
 - [Ask AI](https://askainow.com) - AI training and learning
 - [Livebook AI](https://livebookai.com/category) - AI created stories
 - [AI Kiosks](https://livebookai.com/post/kiosk) - AI Kiosks

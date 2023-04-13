@@ -24,6 +24,8 @@ AskAI is a learning, testing and certification platform powered by Artificial In
 
 [![FormatGPT](images/FormatGPT.png)](http://formatgpt.com)
 
+Now US PATENT PENDING [Interested in this patent or want to license? Book time on my calendar](https://calendly.com/askainow)
+
 Make rich documents from GPT models.
 
 [FormatGPT](http://FormatGPT.com) is a rich productivity platform for Business, providing an API to generate your documents.
