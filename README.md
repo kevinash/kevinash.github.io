@@ -11,6 +11,7 @@ The lab's primary objective is supporting innovation and connection with everyda
 - [Ask AI](https://askainow.com) - AI training and learning
 - [Livebook AI](https://livebookai.com/category) - AI created stories
 - [AI Kiosks](https://livebookai.com/post/kiosk) - AI Kiosks
+- [AI Coaching](http://AI coaching.us) - AI Coaching in sports, take your sport to the next level
 
 ## The Art of Prompts for Artificial Intelligence
 
