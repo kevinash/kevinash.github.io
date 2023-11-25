@@ -1,18 +1,27 @@
 [![http://kevinashley.com](images/kalabs.jpg)](http://kevinashley.com)
 
 
-The lab's primary objective is supporting innovation and connection with everyday lives through product design. Founded by Kevin Ashley, [author](/books/books.md), Google Generative AI blackbelt engineer, Microsoft Developer Hall of Fame engineer and Microsoft CTO AI Challenge winner, author of many popular apps with several million users. Offering training, guidance, [product](/products/products.md) and AI design, [books](/books/books.md), prototyping, [learning events](/surfingcamp/surfingcamp.md), [coaching](/coaching/coaching.md) and more. 
+The lab's primary objective is supporting innovation and connection with everyday lives through product design. Founded by Kevin Ashley, [author](/books/books.md), Google Generative AI blackbelt engineer, winner of multiple Microsoft career awards in AI, author of 30+ popular apps with several million users. Founder: [products](/products/products.md) and AI design, [books](/books/books.md).
 
-## What's new in 2023!
+## What's new in 2023-2024!
 
-- [NEW BOOK: Art of Prompts](https://www.amazon.com/dp/B0BBXQ7VQL)
+- [UPCOMING: Art of Prompts 2](https://www.amazon.com/dp/B0CNFM527T) - The upcoming new book in Art of Prompts series PRE-ORDER release January 31, 2024.
+- [Art of Prompts](https://www.amazon.com/dp/B0BBXQ7VQL) - Art of Prompt (Original)
+- [Livebook PromptMania!](https://livebookai.com) - Generative AI notebooks
+- [AI Coaching](http://aicoaching.us) - US Olympic and Paralympic Committee app with Generative AI
 - [FormatGPT](/formatgpt/formatgpt.html) -  Make beautiful documents from GPT
 - [Ask AI](https://askainow.com) - AI training and learning
-- [Livebook AI](https://livebookai.com/category) - AI created stories
 - [AI Kiosks](https://livebookai.com/post/kiosk) - AI Kiosks
-- [AI Coaching](http://aicoaching.us) - AI Coaching in sports, take your sport to the next level
 
-## The Art of Prompts for Artificial Intelligence
+## The Art of Prompts (Original Book)
+
+[![http://kevinashley.com](images/banner_art_of_prompts_2.jpg)](https://www.amazon.com/dp/B0CNFM527T)
+
+_**AVAILABLE FOR PRE-ORDER: Release January 31, 2024**_
+
+Second book in the series on how to make beautiful art with prompts. "The Art of Prompts 2" All the original prompts from this book are available online at [Livebook PromptMania!](https://livebookai.com) with any of our subscription options! You can play with them live and use them to create your own content.
+
+## The Art of Prompts (Original Book)
 
 [![http://kevinashley.com](images/banner_art_of_prompts.jpg)](https://www.amazon.com/dp/B0BBXQ7VQL)
 

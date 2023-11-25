@@ -1,10 +1,18 @@
 # Books
 
-## The Art of Prompts for Artificial Intelligence
+## The Art of Prompts 2
+
+[![http://kevinashley.com](images/banner_art_of_prompts_2.jpg)](https://www.amazon.com/dp/B0CNFM527T)
+
+_**AVAILABLE FOR PRE-ORDER: Release January 31, 2024**_
+
+Second book in the series on how to make beautiful art with prompts. "The Art of Prompts 2" All the original prompts from this book are available online at [Livebook PromptMania!](https://livebookai.com) with any of our subscription options! You can play with them live and use them to create your own content.
+
+## The Art of Prompts (Original)
 
 [![http://kevinashley.com](images/banner_art_of_prompts.jpg)](https://www.amazon.com/dp/B0BBXQ7VQL)
 
-_**NEW BOOK! Amazon Bestseller in Neural Networks, Arts**_
+_**Amazon Bestseller in Neural Networks, Arts**_
 
 The Art of Prompts, is a great resource for anyone interested in digital arts and artificial intelligence. Includes hundreds of illustrations and tips on making beautiful digital art with Midjourney, DALL-E and other artificial intelligence tools. Enjoy browsing through a gallery of hundreds of illustrations made with prompts, try them yourself and have fun!
 
