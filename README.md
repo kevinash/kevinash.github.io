@@ -13,13 +13,13 @@ The lab's primary objective is supporting innovation and connection with everyda
 - [Ask AI](https://askainow.com) - AI training and learning
 - [AI Kiosks](https://livebookai.com/post/kiosk) - AI Kiosks
 
-## The Art of Prompts (Original Book)
+## The Art of Prompts 2
 
 [![http://kevinashley.com](images/banner_art_of_prompts_2.jpg)](https://www.amazon.com/dp/B0CNFM527T)
 
 _**AVAILABLE FOR PRE-ORDER: Release January 31, 2024**_
 
-Second book in the series on how to make beautiful art with prompts. "The Art of Prompts 2" All the original prompts from this book are available online at [Livebook PromptMania!](https://livebookai.com) with any of our subscription options! You can play with them live and use them to create your own content.
+Second book in the series on how to make beautiful art with prompts. It also adds Google AI as well as tips on images, illutration, as well as conversation and text. "The Art of Prompts 2" All the original prompts from this book are available online at [Livebook PromptMania!](https://livebookai.com) with any of our subscription options! You can play with them live and use them to create your own content.
 
 ## The Art of Prompts (Original Book)
 
