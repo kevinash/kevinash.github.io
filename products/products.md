@@ -4,9 +4,22 @@ Kevin Ashley Labs developed products enjoyed by millions of users. Some are even
 
 ## Livebook PromptMania!
 
-Make beautiful digital art, greeting cards, stories and illustrations and share with your friends and family!
+Make beautiful digital art, greeting cards, stories and illustrations and share with your friends and family with [Livebook PromptMania!](https://prompt-mania.com)!
 
-[![https://livebookai.com](images/livebookai-logo-1200x600.jpg)](https://livebookai.com)
+[![https://livebookai.com](images/livebookai-logo-1200x600.jpg)](https://livebookai.
+com)
+
+[![https://livebookai.com](images/greeting-cards-1.jpg)](https://livebookai.com)
+
+[![https://prompt-mania.com](images/prompt-mania-1.jpg)](https://prompt-mania.com)
+
+
+## AI Coaching
+
+The AI innovation project for US Olympic and Paralympic Committee to help athletes and coaches with training.
+
+[![https://aicoaching.us](images/ai-coaching-large.jpg)](https://aicoaching.us)
+
 
 ## Livebook AI Kiosk
 
