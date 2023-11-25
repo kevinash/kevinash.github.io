@@ -47,6 +47,14 @@ Learn to instantly create professional digital art for your projects, books, doc
 - Science Fiction
 - Fantasy and Games
 
+## US Olympic and Paralympic Committee
+
+Helping US Olympic and Paralympic team with generative AI! The AI innovation project for US Olympic and Paralympic Committee to help athletes and coaches with training.
+
+[![https://aicoaching.us](images/ai-coaching-large.jpg)](https://aicoaching.us)
+
+
+
 ## Interview with Artificial Intelligence
 
 [![http://kevinashley.com](images/interview_500.jpg)](https://www.amazon.com/dp/B0BNV3MN53)
