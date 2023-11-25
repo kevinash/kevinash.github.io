@@ -2,6 +2,12 @@
 
 Kevin Ashley Labs developed products enjoyed by millions of users. Some are even installed in the museums (for example [AI Kiosk](https://livebookai.com/post/kiosk) for Computer History Museum in Silicon Valley). 
 
+## Livebook PromptMania!
+
+Make beautiful digital art, greeting cards, stories and illustrations and share with your friends and family!
+
+[![https://livebookai.com](images/livebookai-logo-1200x600.jpg)](https://livebookai.com)
+
 ## Livebook AI Kiosk
 
 [![http://kevinashley.com](images/ai-kiosk.jpg)](https://livebookai.com/post/kiosk)

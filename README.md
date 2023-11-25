@@ -6,8 +6,8 @@ The lab's primary objective is supporting innovation and connection with everyda
 ## What's new in 2023-2024!
 
 - [UPCOMING: Art of Prompts 2](https://www.amazon.com/dp/B0CNFM527T) - The upcoming new book in Art of Prompts series PRE-ORDER release January 31, 2024.
-- [Art of Prompts](https://www.amazon.com/dp/B0BBXQ7VQL) - Art of Prompt (Original)
-- [Livebook PromptMania!](https://livebookai.com) - Generative AI notebooks
+- [Art of Prompts](https://www.amazon.com/dp/B0BBXQ7VQL) - Art of Prompts (Original book) - Amazon bestseller!
+- [Livebook PromptMania!](https://livebookai.com) - Make and share your own generative AI notebooks, greeting cards, stories, illustrations and more!
 - [AI Coaching](http://aicoaching.us) - US Olympic and Paralympic Committee app with Generative AI
 - [FormatGPT](/formatgpt/formatgpt.html) -  Make beautiful documents from GPT
 - [Ask AI](https://askainow.com) - AI training and learning
