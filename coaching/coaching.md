@@ -19,15 +19,3 @@ Kevin Ashley is a winner of multiple Microsoft career awards, including artifici
 - Authoring, books and publishing
 - And more (schedule a 30 minute free scoping session)
 
-## Flexible Pricing Options
-
-All coaching sessions are done via video calls on Microsoft Teams or Google Meet.
-Payments are via [PayPal](https://www.paypal.me/askainow), Zelle or credit cards.
-
-- An initial 30-minute session is [FREE](https://calendly.com/askainow/kevin-ashley-30-min).
-- $199 for an individual [1 hour session](https://calendly.com/askainow/kevin-ashley-1-hour) 
-- $1,000 for a package of [6 sessions](https://buy.stripe.com/eVa2a1e5b8tXe2I289)
-
-## Find time on my calendar now
-
-Find time on my calendar for an [initial free 30 minute session](https://calendly.com/askainow/kevin-ashley-30-min) today. Need more time? Book a [1 hour session](https://calendly.com/askainow/kevin-ashley-1-hour). 
