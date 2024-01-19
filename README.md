@@ -3,7 +3,7 @@
 
 The lab's primary objective is supporting innovation and connection with everyday lives through product design. Founded by Kevin Ashley, [author](/books/books.md), Google Generative AI blackbelt engineer, winner of multiple Microsoft career awards in AI, author of 30+ popular apps with several million users. Founder: [products](/products/products.md) and AI design, [books](/books/books.md).
 
-## What's new in 2023-2024!
+## What's new in 2024!
 
 - [NEW! Art of Prompts 2](https://www.amazon.com/dp/B0CS6LPJYC) - The  new book in Art of Prompts [Paperback](https://www.amazon.com/dp/B0CS6LPJYC) or  [Ebook](https://www.amazon.com/dp/B0CNFM527T).
 - [Art of Prompts](https://www.amazon.com/dp/B0BBXQ7VQL) - Art of Prompts (Original book) - Amazon bestseller!
