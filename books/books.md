@@ -6,7 +6,7 @@
 
 _**Available in beautiful paperback and e-book with links!**_
 
-([Paperback](https://www.amazon.com/dp/B0CS6LPJYC) | [Ebook](https://www.amazon.com/dp/B0CNFM527T) )
+[Paperback](https://www.amazon.com/dp/B0CS6LPJYC) or [Ebook](https://www.amazon.com/dp/B0CNFM527T) 
 
 Second book in the series on how to make beautiful art with prompts. 
 Includes many new tools discussed in this book: the visual Prompt Maker, Comics Maker, Greeting Card Maker, Story Maker, and tons of templates from [Livebook](https://livebookai.com). You can play with them live and use them to create your own content.

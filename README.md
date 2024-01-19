@@ -5,7 +5,7 @@ The lab's primary objective is supporting innovation and connection with everyda
 
 ## What's new in 2023-2024!
 
-- [NEW! Art of Prompts 2](https://www.amazon.com/dp/B0CS6LPJYC) - The  new book in Art of Prompts ([Paperback](https://www.amazon.com/dp/B0CS6LPJYC) | [Ebook](https://www.amazon.com/dp/B0CNFM527T) ).
+- [NEW! Art of Prompts 2](https://www.amazon.com/dp/B0CS6LPJYC) - The  new book in Art of Prompts [Paperback](https://www.amazon.com/dp/B0CS6LPJYC) or  [Ebook](https://www.amazon.com/dp/B0CNFM527T).
 - [Art of Prompts](https://www.amazon.com/dp/B0BBXQ7VQL) - Art of Prompts (Original book) - Amazon bestseller!
 - [Livebook](https://livebookai.com) - Generative AI CMS - Make and share your own generative AI notebooks, greeting cards, stories, illustrations and more!
 - [AI Coaching](http://aicoaching.us) - US Olympic and Paralympic Committee app with Generative AI
@@ -16,7 +16,7 @@ The lab's primary objective is supporting innovation and connection with everyda
 
 _**Available in beautiful paperback and e-book with links!**_
 
-([Paperback](https://www.amazon.com/dp/B0CS6LPJYC) | [Ebook](https://www.amazon.com/dp/B0CNFM527T) )
+[Paperback](https://www.amazon.com/dp/B0CS6LPJYC) or [Ebook](https://www.amazon.com/dp/B0CNFM527T) 
 
 Second book in the series on how to make beautiful art with prompts. 
 Includes many new tools discussed in this book: the visual Prompt Maker, Comics Maker, Greeting Card Maker, Story Maker, and tons of templates from [Livebook](https://livebookai.com). You can play with them live and use them to create your own content.
