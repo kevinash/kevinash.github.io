@@ -5,21 +5,24 @@ The lab's primary objective is supporting innovation and connection with everyda
 
 ## What's new in 2023-2024!
 
-- [UPCOMING: Art of Prompts 2](https://www.amazon.com/dp/B0CNFM527T) - The upcoming new book in Art of Prompts series PRE-ORDER release January 31, 2024.
+- [NEW! Art of Prompts 2](https://www.amazon.com/dp/B0CS6LPJYC) - The  new book in Art of Prompts ([Paperback](https://www.amazon.com/dp/B0CS6LPJYC) | [Ebook](https://www.amazon.com/dp/B0CNFM527T) ).
 - [Art of Prompts](https://www.amazon.com/dp/B0BBXQ7VQL) - Art of Prompts (Original book) - Amazon bestseller!
-- [Livebook PromptMania!](https://livebookai.com) - Make and share your own generative AI notebooks, greeting cards, stories, illustrations and more!
+- [Livebook](https://livebookai.com) - Generative AI CMS - Make and share your own generative AI notebooks, greeting cards, stories, illustrations and more!
 - [AI Coaching](http://aicoaching.us) - US Olympic and Paralympic Committee app with Generative AI
-- [FormatGPT](/formatgpt/formatgpt.html) -  Make beautiful documents from GPT
-- [Ask AI](https://askainow.com) - AI training and learning
-- [AI Kiosks](https://livebookai.com/post/kiosk) - AI Kiosks
 
-## The Art of Prompts 2
+## NEW! The Art of Prompts 2
 
-[![http://kevinashley.com](images/banner_art_of_prompts_2.jpg)](https://www.amazon.com/dp/B0CNFM527T)
+[![http://kevinashley.com](images/banner_art_of_prompts_2.jpg)](https://www.amazon.com/dp/B0CS6LPJYC)
 
-_**AVAILABLE FOR PRE-ORDER: Release January 31, 2024**_
+_**Available in beautiful paperback and e-book with links!**_
 
-Second book in the series on how to make beautiful art with prompts. It also adds Google AI as well as tips on images, illutration, as well as conversation and text. "The Art of Prompts 2" All the original prompts from this book are available online at [Livebook PromptMania!](https://livebookai.com) with any of our subscription options! You can play with them live and use them to create your own content.
+([Paperback](https://www.amazon.com/dp/B0CS6LPJYC) | [Ebook](https://www.amazon.com/dp/B0CNFM527T) )
+
+Second book in the series on how to make beautiful art with prompts. 
+Includes many new tools discussed in this book: the visual Prompt Maker, Comics Maker, Greeting Card Maker, Story Maker, and tons of templates from [Livebook](https://livebookai.com). You can play with them live and use them to create your own content.
+
+- [NEW Paperback](https://www.amazon.com/dp/B0CS6LPJYC), paperback, quality color print, feels and reads like an art book, 200 illustrations 
+- [Ebook (Amazon)](https://www.amazon.com/dp/B0CNFM527T) - reflowable text, easy navigation
 
 ## The Art of Prompts (Original Book)
 
