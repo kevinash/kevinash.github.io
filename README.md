@@ -24,25 +24,6 @@ Includes many new tools discussed in this book: the visual Prompt Maker, Comics 
 - [Ebook (Amazon)](https://www.amazon.com/dp/B0CNFM527T) - reflowable text, easy navigation
 - [Ebook (Google Play)](https://play.google.com/store/books/details?id=opjrEAAAQBAJ)
 
-## Livebook 
-
-Generative AI content management system. Enable your business with generative AI: [Livebook](https://livebookai.com)!
-
-[![https://livebookai.com](images/livebook.png)](https://livebookai.
-com)
-
-[![https://livebookai.com/cms](images/livebook-cms.png)](https://livebookai.com/cms)
-
-## AI Coaching
-
-Helping US Olympic and Paralympic team with generative AI! The AI innovation project for US Olympic and Paralympic Committee to help athletes and coaches with training.
-
-[![https://aicoaching.us](images/ai-coaching-large.jpg)](https://aicoaching.us)
-
-
-## Kevin Ashley Labs
-
-Kevin Ashley engineering labs developed fantastic products that millions of users enjoy. Some of these products include generative AI content management systems [Livebook](https://livebookai.com), some are even installed in the museums (for example [AI Kiosk](https://livebookai.com/post/kiosk) for Computer History Museum in Silicon Valley), to games and fitness and sports apps like Active Fitness and Winter Sports.
 
 ## Livebook
 
@@ -58,4 +39,7 @@ Livebook is a generative AI content management system (CMS) built from the groun
 
 AI Coaching is our joint project with the US Olympic and Paralympic Committee that provides AI Assistants available 24/7 for coaches and athletes to help with everyday training, coaching practice, personal training and more. 
 
+## Kevin Ashley Labs
+
+Kevin Ashley engineering labs developed fantastic products that millions of users enjoy. Some of these products include generative AI content management systems [Livebook](https://livebookai.com), some are even installed in the museums (for example [AI Kiosk](https://livebookai.com/post/kiosk) for Computer History Museum in Silicon Valley), to games and fitness and sports apps like Active Fitness and Winter Sports.
 
