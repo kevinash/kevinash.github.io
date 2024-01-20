@@ -24,6 +24,7 @@ Includes many new tools discussed in this book: the visual Prompt Maker, Comics 
 - [Ebook (Amazon)](https://www.amazon.com/dp/B0CNFM527T) - reflowable text, easy navigation
 - [Ebook (Google Play)](https://play.google.com/store/books/details?id=opjrEAAAQBAJ)
 
+[![Livebook](https://img.youtube.com/vi/OrkeJJx0OJg/sddefault.jpg)](https://www.youtube.com/watch?v=OrkeJJx0OJg) 
 
 ## Livebook
 
