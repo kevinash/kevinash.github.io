@@ -8,7 +8,7 @@ Kevin Ashley Labs developed products enjoyed by millions of users. Some are even
 
 Livebook is a generative AI content management system (CMS) built from the ground up for rich generative AI content - text, illustrations, video, stories, comic books and more. It powers many online businesses and organizations, and is fully customizable to meet the demand for customers interested in using generative AI: from assistance, support, professional articles, documentation, to popular and blog posts, news, stories, fiction, recipes, interesting facts, trivia and more.
 
-[![Livebook](https://img.youtube.com/vi/A1SEFlth5Fg/sddefault.jpg)](https://www.youtube.com/watch?v=A1SEFlth5Fg) 
+[![Livebook](images/livebook-cms.PNG)](https://www.youtube.com/watch?v=A1SEFlth5Fg) 
 
 
 ## AI Coaching
