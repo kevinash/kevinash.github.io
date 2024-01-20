@@ -6,7 +6,6 @@ The lab's primary objective is supporting innovation and connection with everyda
 ## What's new in 2024!
 
 - [NEW! Art of Prompts 2](https://www.amazon.com/dp/B0CS6LPJYC) - The  new book in Art of Prompts [Paperback](https://www.amazon.com/dp/B0CS6LPJYC) or  [Ebook on Kindle](https://www.amazon.com/dp/B0CNFM527T) or [Ebook on Google Play](https://play.google.com/store/books/details?id=opjrEAAAQBAJ).
-- [Art of Prompts](https://www.amazon.com/dp/B0BBXQ7VQL) - Art of Prompts (Original book) - Amazon bestseller!
 - [Livebook](https://livebookai.com) - Generative AI CMS - Make and share your own generative AI notebooks, greeting cards, stories, illustrations and more!
 - [AI Coaching](http://aicoaching.us) - US Olympic and Paralympic Committee app with Generative AI
 
@@ -25,120 +24,38 @@ Includes many new tools discussed in this book: the visual Prompt Maker, Comics 
 - [Ebook (Amazon)](https://www.amazon.com/dp/B0CNFM527T) - reflowable text, easy navigation
 - [Ebook (Google Play)](https://play.google.com/store/books/details?id=opjrEAAAQBAJ)
 
-## The Art of Prompts (Original Book)
+## Livebook 
 
-[![http://kevinashley.com](images/banner_art_of_prompts.jpg)](https://www.amazon.com/dp/B0BBXQ7VQL)
+Generative AI content management system. Enable your business with generative AI: [Livebook](https://livebookai.com)!
 
-_**NEW BOOK! Amazon Bestseller in Neural Networks, Arts**_
+[![https://livebookai.com](images/livebook.png)](https://livebookai.
+com)
 
-The Art of Prompts, is a great resource for anyone interested in digital arts and artificial intelligence. Includes hundreds of illustrations and tips on making beautiful digital art with Midjourney, DALL-E and other artificial intelligence tools. Enjoy browsing through a gallery of hundreds of illustrations made with prompts, try them yourself and have fun!
+[![https://livebookai.com/cms](images/livebook-cms.png)](https://livebookai.com/cms)
 
-[![http://kevinashley.com](images/art_of_prompts_500.jpg)](https://www.amazon.com/dp/B0BBXQ7VQL)
-
-- [NEW Paperback](https://www.amazon.com/dp/B0BBXQ7VQL), paperback, quality color print, feels and reads like an art book, 200 illustrations 
-- [Ebook (Amazon)](https://www.amazon.com/dp/B0BBTRRL15) - reflowable text, easy navigation
-
-Make beautiful art with Midjourney, DALL-E and other artificial intelligence tools.
-Includes 200+ beautiful illustrations and tested prompts you can copy-and-paste to jump start creating artwork instantly.
-Learn to instantly create professional digital art for your projects, books, documentation, research, or business:
-
-- Illustrations
-- Portraits
-- Landscapes
-- Sketches and Infographics
-- Industrial and Architectural Design
-- 3D
-- Science Fiction
-- Fantasy and Games
-
-## US Olympic and Paralympic Committee
+## AI Coaching
 
 Helping US Olympic and Paralympic team with generative AI! The AI innovation project for US Olympic and Paralympic Committee to help athletes and coaches with training.
 
 [![https://aicoaching.us](images/ai-coaching-large.jpg)](https://aicoaching.us)
 
 
-
-## Interview with Artificial Intelligence
-
-[![http://kevinashley.com](images/interview_500.jpg)](https://www.amazon.com/dp/B0BNV3MN53)
-
-Announcing the paperback edition of my new book: AI changes the way we learn, get certified, our training and even how we get hired. Enjoy hundreds of puzzles and tests that demonstrate how to apply AI in learning, interviews and more (including the famous "Good Will Hunting" movie problem). Includes practical problems from Google, Amazon, Meta, Microsoft job interviews solved by AI.
-
-- [NEW Paperback](https://www.amazon.com/dp/B0BNV3MN53), paperback 
-- [Ebook (Amazon)](https://www.amazon.com/dp/B0BMMB8BZH) - links in text for easy navigation, reflowable
-
-_**Interested in writing a review? [Ping me on LinkedIn](https://www.linkedin.com/in/kashlik/) to get a FREE copy!**_
-
-How to use this book and online tools: this book works best with a subscription to my easy-to-use online artificial intelligence called [Ask AI](https://askainow.com), where you can follow with practical exercises, examples, online tests and more. 
-
-[![Ask AI](images/askai_logo.png)](https://askainow.com)
-
-Job seekers: can use Ask AI to prepare for job interviews of any complexity! Get valuable coaching, feedback from AI, access training resources and tips to prepare for interviews, practice and get certified by artificial intelligence.
-
-For recruiters, HR and business, the tool provides online tests for candidates with instant artificial intelligence evaluation. Learn about using artificial intelligence in your hiring process, simplify your hiring process and reduce costs for in-person interviews.
-
-For live online examples for this book, check [Ask AI](https://askainow.com), an online tool that helps preparing for job interviews and online training/certification with AI:
-
-## MAKE ART with Artificial Intelligence
-
-[![http://kevinashley.com](images/makeart_cover_500.png)](https://www.amazon.com/dp/B091J3T4HM)
-
->A practical guide for everyone on how to use Artificial Intelligence super-tools in art, illustration, design and more…
-
-- [NEW, Hardcover](https://www.amazon.com/dp/B09LGGST5Y), hardcover, quality color print, feels and reads like an art book, 184 pages, 200 illustrations, 20+ study guides, highlighted tutorial sections, more illustrations than e-book 
-- [Paperback](https://www.amazon.com/dp/B091J3T4HM), paperback, quality color print, feels and reads like an art book, 184 pages, 200 illustrations, 20+ study guides, highlighted tutorial sections, more illustrations than e-book 
-- [Ebook (Amazon)](https://www.amazon.com/dp/B08YXW7M9K) - reflowable text, easy navigation to tutorials and easy read on phone, tablet or desktop
-
-This book is a richly illustrated tutorial to artificial intelligence (AI) for anyone interested in expanding creativity with AI. Written and illustrated by Kevin Ashley, a Microsoft developer hall of fame engineer, and an author of book and courses on AI, with lots of practical tutorials. Think of this book as v3.0 of your drawing class manual on how to sketch, draw faces, poses, and landscapes, apply light, color, style, emotion, expressions, perspective, generate animations, speech and more with AI.
-
-_**Suggestion: Hardcover and Paperback make a great gift!**_
-
-I noticed that many readers buy the paperback as a gift to college kids, or if they are interested in art and technology. The paperback is a great option: high quality print, color full page illustrations, the book makes a beautiful gift! See fot yourself:
-
-[![MAKE ART with AI](images/book-hardcover_front1.jpg)](https://www.youtube.com/watch?v=8Ex_Ky9NZDM)
-
-All artwork from this book, made and augmented with AI is available on blockchain as NFT gallery called The Art of AI.
-
-[![http://kevinashley.com](images/make-art-with-ai-banner-800.jpg)](https://www.amazon.com/dp/B091J3T4HM)
-
-## Applied Machine Learning for Health and Fitness
-
-A book that became classics of A.I. in sports! Used by many sports scientists. For this book you can also check my complete video course [AI in Sports with Python](https://ai-learning.vhx.tv/) with multiple notebooks and tutorials.
-
-[![http://kevinashley.com](images/applied_ml_health_fitness_med.jpg)](https://www.amazon.com/gp/product/B08GLG5CFG)
-
 ## Kevin Ashley Labs
 
-Kevin Ashley engineering labs developed fantastic products that millions of users enjoy. Some of these products are even installed in the museums (for example [AI Kiosk](https://livebookai.com/post/kiosk) for Computer History Museum in Silicon Valley). Kevin Ashley Labs developed all types of products: from artificial intelligence systems like [Ask AI](https://askainow.com), [Livebook AI](https://livebookai.com), to games and fitness and sports apps like Active Fitness and Winter Sports.
+Kevin Ashley engineering labs developed fantastic products that millions of users enjoy. Some of these products include generative AI content management systems [Livebook](https://livebookai.com), some are even installed in the museums (for example [AI Kiosk](https://livebookai.com/post/kiosk) for Computer History Museum in Silicon Valley), to games and fitness and sports apps like Active Fitness and Winter Sports.
 
-## Ask AI
+## Livebook
 
-[![Ask AI](images/askai_logo.png)](https://askainow.com)
+[![Livebook](images/livebook.png)](https://livebookai.com)
 
-AskAI is a learning, testing and certification platform powered by Artificial Intelligence. It's a new way to learn, prepare for tests, exams and interviews and evaluate your candidates and skills. Because our platform is powered by artificial intelligence, it can answer most top companies interview questions with ease!
+Livebook is a generative AI content management system (CMS) built from the ground up for rich generative AI content - text, illustrations, video, stories, comic books and more. It powers many online businesses and organizations, and is fully customizable to meet the demand for customers interested in using generative AI: from assistance, support, professional articles, documentation, to popular and blog posts, news, stories, fiction, recipes, interesting facts, trivia and more.
 
-[![Ask AI](https://img.youtube.com/vi/i9GcLP074ZA/sddefault.jpg)](https://www.youtube.com/watch?v=i9GcLP074ZA) 
+[![Livebook](https://img.youtube.com/vi/A1SEFlth5Fg/sddefault.jpg)](https://www.youtube.com/watch?v=A1SEFlth5Fg) 
 
-## Livebook AI Kiosk
+## AI Coaching
 
-[![http://kevinashley.com](images/ai-kiosk.jpg)](https://livebookai.com/post/kiosk)
+[![AI Coaching](images/ai-coaching-large.jpg)](https://aicoaching.us)
 
-A.I. Digital Signage - Impress your visitors with customized and interactive content created by Artificial Intelligence streaming live to your device! Our Livebook AI Kiosk is a kiosk style tradeshow ready device, the exact replica of our exhibit in the Computer History Museum in Silicon Valley, customized for your content.
+AI Coaching is our joint project with the US Olympic and Paralympic Committee that provides AI Assistants available 24/7 for coaches and athletes to help with everyday training, coaching practice, personal training and more. 
 
-It requires a Business subscription to Livebook AI service. The displayed content is customizable for your audience. 
 
-[![Livebook AI Kiosk](https://img.youtube.com/vi/JjtaNWW6Z34/sddefault.jpg)](https://youtube.com/shorts/JjtaNWW6Z34)
-
-## Active Fitness
-
-Active Fitness is a sport and fitness platform with 2,000,000+ users. If you are interested in Active Fitness development, please [ping me on LinkedIn](https://www.linkedin.com/in/kashlik/).
-
-## Games
-
-If you are interested in games development, please [ping me on LinkedIn](https://www.linkedin.com/in/kashlik/)
-
-## Showcase Projects
-
-[Wall Street Journal](https://www.wsj.com/articles/olympic-surfing-rides-the-machine-learning-wave-11627379213)
-[Microsoft](https://unlocked.microsoft.com/usa-surf/)

@@ -2,16 +2,13 @@
 
 Kevin Ashley Labs developed products enjoyed by millions of users. Some are even installed in the museums (for example [AI Kiosk](https://livebookai.com/post/kiosk) for Computer History Museum in Silicon Valley). 
 
-## Livebook PromptMania!
+## Livebook 
 
-Make beautiful digital art, greeting cards, stories and illustrations and share with your friends and family with [Livebook PromptMania!](https://prompt-mania.com)!
+[![Livebook](images/livebook.png)](https://livebookai.com)
 
-[![https://livebookai.com](images/livebookai-logo-1200x600.jpg)](https://livebookai.
-com)
+Livebook is a generative AI content management system (CMS) built from the ground up for rich generative AI content - text, illustrations, video, stories, comic books and more. It powers many online businesses and organizations, and is fully customizable to meet the demand for customers interested in using generative AI: from assistance, support, professional articles, documentation, to popular and blog posts, news, stories, fiction, recipes, interesting facts, trivia and more.
 
-[![https://livebookai.com](images/greeting-cards-1.jpg)](https://livebookai.com)
-
-[![https://prompt-mania.com](images/prompt-mania-1.jpg)](https://prompt-mania.com)
+[![Livebook](https://img.youtube.com/vi/A1SEFlth5Fg/sddefault.jpg)](https://www.youtube.com/watch?v=A1SEFlth5Fg) 
 
 
 ## AI Coaching
