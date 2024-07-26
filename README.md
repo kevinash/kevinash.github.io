@@ -1,15 +1,20 @@
 [![http://kevinashley.com](images/kalabs.jpg)](http://kevinashley.com)
 
-
-The lab's primary objective is supporting innovation and connection with everyday lives through product design. Founded by Kevin Ashley, [author](/books/books.md), Google Generative AI blackbelt engineer, winner of multiple Microsoft career awards in AI, author of 30+ popular apps with several million users. Founder: [products](/products/products.md) and AI design, [books](/books/books.md).
+The lab's primary objective is supporting innovation and connection with everyday lives through generative AI technologies and creativity. Founded by Kevin Ashley, [author](/books/books.md), Google Generative AI blackbelt engineer, winner of multiple Microsoft career awards in AI, author of 30+ popular apps with several million users. Founder: [products](/products/products.md) and AI design, [books](/books/books.md).
 
 ## What's new in 2024!
 
-- [NEW! Art of Prompts 2](https://www.amazon.com/dp/B0CS6LPJYC) - The  new book in Art of Prompts [Paperback](https://www.amazon.com/dp/B0CS6LPJYC) or  [Ebook on Kindle](https://www.amazon.com/dp/B0CNFM527T) or [Ebook on Google Play](https://play.google.com/store/books/details?id=opjrEAAAQBAJ).
+- [AI Coaching](http://aicoaching.us) - AI Coaching wins generative AI innovation award from US Olympic and Paralympic Committee 2023-2024
+- [NEW BOOK! Art of Prompts 2](https://www.amazon.com/dp/B0CS6LPJYC) - The  new book in Art of Prompts [Paperback](https://www.amazon.com/dp/B0CS6LPJYC) or  [Ebook on Kindle](https://www.amazon.com/dp/B0CNFM527T) or [Ebook on Google Play](https://play.google.com/store/books/details?id=opjrEAAAQBAJ).
 - [Livebook](https://livebookai.com) - Generative AI CMS - Make and share your own generative AI notebooks, greeting cards, stories, illustrations and more!
-- [AI Coaching](http://aicoaching.us) - US Olympic and Paralympic Committee app with Generative AI
 
-## NEW! The Art of Prompts 2
+## AI Coaching
+
+[![AI Coaching](images/ai-coaching-large.jpg)](https://youtu.be/KYLe8g_bq_4)
+
+NEW! AI Coaching wins generative AI innovation award from US Olympic and Paralympic Committee as a platform for AI innovation in sports targeting Olympics 2028 in LA and 2024 in Paris. It provides AI assistants available 24/7 for coaches and athletes to help with everyday training, coaching practice, personal training, sport image, documents, video analysis and more. Here's a video overview of AI Coaching and what it can do. 
+
+## NEW BOOK! The Art of Prompts 2
 
 [![http://kevinashley.com](images/banner_art_of_prompts_2.jpg)](https://www.amazon.com/dp/B0CS6LPJYC)
 
@@ -32,11 +37,7 @@ Livebook is a generative AI content management system (CMS) built from the groun
 
 [![Livebook](https://img.youtube.com/vi/A1SEFlth5Fg/sddefault.jpg)](https://www.youtube.com/watch?v=A1SEFlth5Fg) 
 
-## AI Coaching
-
-[![AI Coaching](images/ai-coaching-large.jpg)](https://aicoaching.us)
-
-AI Coaching is our joint project with the US Olympic and Paralympic Committee that provides AI Assistants available 24/7 for coaches and athletes to help with everyday training, coaching practice, personal training and more. 
+ 
 
 ## Kevin Ashley Labs
 
