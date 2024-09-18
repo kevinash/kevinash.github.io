@@ -4,9 +4,23 @@ The lab's primary objective is supporting innovation and connection with everyda
 
 ## What's new in 2024!
 
+- [AI Blueprint](https://twitter.com/i/communities/1833651045484081434) - Get your business up and running quickly with GenAI Blueprint 
 - [AI Coaching](http://aicoaching.us) - AI Coaching wins generative AI innovation award from US Olympic and Paralympic Committee 2023-2024
 - [NEW BOOK! Art of Prompts 2](https://www.amazon.com/dp/B0CS6LPJYC) - The  new book in Art of Prompts [Paperback](https://www.amazon.com/dp/B0CS6LPJYC) or  [Ebook on Kindle](https://www.amazon.com/dp/B0CNFM527T) or [Ebook on Google Play](https://play.google.com/store/books/details?id=opjrEAAAQBAJ).
 - [Livebook](https://livebookai.com) - Generative AI CMS - Make and share your own generative AI notebooks, greeting cards, stories, illustrations and more!
+
+## GenAI Blueprint
+[![GenAI Blueprint](images/ai-blueprint-overview.png)](https://twitter.com/i/communities/1833651045484081434)
+
+Let us build a complete AI app solution for your business with GenAI Blueprint:
+
+- Chat
+- E-Commerce
+- Media (Video/Text/Images)
+- Marketing
+- Learning
+
+[![GenAI Blueprint](images/ai-blueprint.png)](https://twitter.com/i/communities/1833651045484081434)
 
 ## AI Coaching
 
