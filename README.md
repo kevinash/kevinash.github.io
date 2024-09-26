@@ -7,9 +7,9 @@ The lab's primary objective is supporting innovation and connection with everyda
 
 - [AI Blueprint](https://www.ai-blueprint.net) - New AI platform for rapid solutions: E-Commerce, Marketing, Finance, Investing, Support
 - [AI Coaching](https://aicoaching.us) - AI Coaching wins US Olympic and Paralympic Committee innovation nomination
-- [Art of Prompts 2](https://www.amazon.com/dp/B0CS6LPJYC) - The  new book in Art of Prompts [Paperback](https://www.amazon.com/dp/B0CS6LPJYC) or  [Ebook on Kindle](https://www.amazon.com/dp/B0CNFM527T) or [Ebook on Google Play](https://play.google.com/store/books/details?id=opjrEAAAQBAJ).
-- [Livebook](https://livebookai.com) - Generative AI CMS - Make and share your own generative AI notebooks, greeting cards, stories, illustrations and more!
-- [AI Coaching](http://aicoaching.us) - US Olympic and Paralympic Committee app with Generative AI
+- [Livebook](https://livebookai.com) - AI E-Commerce - The largest digital products store!
+- [Books](http://kevinashley.com/books/books.html) - Check my books
+
 
 ## AI Blueprint
 
