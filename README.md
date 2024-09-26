@@ -5,11 +5,18 @@ The lab's primary objective is supporting innovation and connection with everyda
 
 ## What's new in 2024!
 
-- [NEW! Art of Prompts 2](https://www.amazon.com/dp/B0CS6LPJYC) - The  new book in Art of Prompts [Paperback](https://www.amazon.com/dp/B0CS6LPJYC) or  [Ebook on Kindle](https://www.amazon.com/dp/B0CNFM527T) or [Ebook on Google Play](https://play.google.com/store/books/details?id=opjrEAAAQBAJ).
+- [AI Blueprint] (https://www.ai-blueprint.net) - New AI platform for rapid solutions: E-Commerce, Marketing, Finance, Investing, Support
+- [Art of Prompts 2](https://www.amazon.com/dp/B0CS6LPJYC) - The  new book in Art of Prompts [Paperback](https://www.amazon.com/dp/B0CS6LPJYC) or  [Ebook on Kindle](https://www.amazon.com/dp/B0CNFM527T) or [Ebook on Google Play](https://play.google.com/store/books/details?id=opjrEAAAQBAJ).
 - [Livebook](https://livebookai.com) - Generative AI CMS - Make and share your own generative AI notebooks, greeting cards, stories, illustrations and more!
 - [AI Coaching](http://aicoaching.us) - US Olympic and Paralympic Committee app with Generative AI
 
-## NEW! The Art of Prompts 2
+## AI Blueprint
+
+[![http://www.ai-blueprint.net](images/ai-blueprint-logo.png)](http://www.ai-blueprint.net)
+
+New AI platform for rapid solutions: E-Commerce, Marketing, Finance, Investing, Support.
+
+## The Art of Prompts 2
 
 [![http://kevinashley.com](images/banner_art_of_prompts_2.jpg)](https://www.amazon.com/dp/B0CS6LPJYC)
 
