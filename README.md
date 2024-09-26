@@ -5,7 +5,8 @@ The lab's primary objective is supporting innovation and connection with everyda
 
 ## What's new in 2024!
 
-- [AI Blueprint] (https://www.ai-blueprint.net) - New AI platform for rapid solutions: E-Commerce, Marketing, Finance, Investing, Support
+- [AI Blueprint](https://www.ai-blueprint.net) - New AI platform for rapid solutions: E-Commerce, Marketing, Finance, Investing, Support
+- [AI Coaching](https://aicoaching.us) - AI Coaching wins US Olympic and Paralympic Committee innovation nomination
 - [Art of Prompts 2](https://www.amazon.com/dp/B0CS6LPJYC) - The  new book in Art of Prompts [Paperback](https://www.amazon.com/dp/B0CS6LPJYC) or  [Ebook on Kindle](https://www.amazon.com/dp/B0CNFM527T) or [Ebook on Google Play](https://play.google.com/store/books/details?id=opjrEAAAQBAJ).
 - [Livebook](https://livebookai.com) - Generative AI CMS - Make and share your own generative AI notebooks, greeting cards, stories, illustrations and more!
 - [AI Coaching](http://aicoaching.us) - US Olympic and Paralympic Committee app with Generative AI
@@ -15,6 +16,12 @@ The lab's primary objective is supporting innovation and connection with everyda
 [![http://www.ai-blueprint.net](images/ai-blueprint-logo.png)](http://www.ai-blueprint.net)
 
 New AI platform for rapid solutions: E-Commerce, Marketing, Finance, Investing, Support.
+
+## AI Coaching
+
+[![AI Coaching](images/ai-coaching-large.jpg)](https://aicoaching.us)
+
+AI Coaching is our joint project with the US Olympic and Paralympic Committee that provides AI Assistants available 24/7 for coaches and athletes to help with everyday training, coaching practice, personal training and more. 
 
 ## The Art of Prompts 2
 
@@ -38,12 +45,6 @@ Includes many new tools discussed in this book: the visual Prompt Maker, Comics 
 Livebook is a generative AI content management system (CMS) built from the ground up for rich generative AI content - text, illustrations, video, stories, comic books and more. It powers many online businesses and organizations, and is fully customizable to meet the demand for customers interested in using generative AI: from assistance, support, professional articles, documentation, to popular and blog posts, news, stories, fiction, recipes, interesting facts, trivia and more.
 
 [![Livebook](https://img.youtube.com/vi/A1SEFlth5Fg/sddefault.jpg)](https://www.youtube.com/watch?v=A1SEFlth5Fg) 
-
-## AI Coaching
-
-[![AI Coaching](images/ai-coaching-large.jpg)](https://aicoaching.us)
-
-AI Coaching is our joint project with the US Olympic and Paralympic Committee that provides AI Assistants available 24/7 for coaches and athletes to help with everyday training, coaching practice, personal training and more. 
 
 ## Kevin Ashley Labs
 
