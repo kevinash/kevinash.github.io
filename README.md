@@ -13,9 +13,11 @@ The lab's primary objective is supporting innovation in all aspects of human liv
 
 ## AI Blueprint
 
-[![http://www.ai-blueprint.net](images/ai-blueprint-logo.png)](http://www.ai-blueprint.net)
+[![http://www.ai-blueprint.net](images/ai-blueprint-logo.png)](https://www.ai-blueprint.net)
 
-New AI platform for rapid solutions: E-Commerce, Marketing, Finance, Investing, Support.
+New AI platform to accelerate your AI solutions. If you are thinking of starting an AI solution for your business, consider our blueprint solutions! A blueprint is a prebuilt solution that can be customized by our consulting team or in partnership with your business to the needs of your business. 
+
+[Start with a blueprint: get a complete AI solution!](https://www.ai-blueprint.net)
 
 ## AI Coaching
 
@@ -31,83 +33,4 @@ Livebook is an E-Commerce platform and the largest generative AI content managem
 
 [![Livebook](https://img.youtube.com/vi/A1SEFlth5Fg/sddefault.jpg)](https://www.youtube.com/watch?v=A1SEFlth5Fg) 
 
-
-## The Art of Prompts 2
-
-[![http://kevinashley.com](images/banner_art_of_prompts_2.jpg)](https://www.amazon.com/dp/B0CS6LPJYC)
-
-_**Available in beautiful paperback and e-book with links!**_
-
-[Paperback](https://www.amazon.com/dp/B0CS6LPJYC) or [Kindle Ebook](https://www.amazon.com/dp/B0CNFM527T) or [Ebook on Google Play](https://play.google.com/store/books/details?id=opjrEAAAQBAJ)
-
-Second book in the series on how to make beautiful art with prompts. 
-Includes many new tools discussed in this book: the visual Prompt Maker, Comics Maker, Greeting Card Maker, Story Maker, and tons of templates from [Livebook](https://livebookai.com). You can play with them live and use them to create your own content.
-
-- [NEW Paperback](https://www.amazon.com/dp/B0CS6LPJYC), paperback, quality color print, feels and reads like an art book, 200 illustrations 
-- [Ebook (Amazon)](https://www.amazon.com/dp/B0CNFM527T) - reflowable text, easy navigation
-- [Ebook (Google Play)](https://play.google.com/store/books/details?id=opjrEAAAQBAJ)
-
-## Kevin Ashley Labs
-
-Kevin Ashley engineering labs developed fantastic products that millions of users enjoy. Some of these products include generative AI content management systems [Livebook](https://livebookai.com), some are even installed in the museums (for example [AI Kiosk](https://livebookai.com/post/kiosk) for Computer History Museum in Silicon Valley), to games and fitness and sports apps like Active Fitness and Winter Sports.
-
-
-[![http://kevinashley.com](images/kalabs.jpg)](http://kevinashley.com)
-
-The lab's primary objective is supporting innovation and connection with everyday lives through generative AI technologies and creativity. Founded by Kevin Ashley, [author](/books/books.md), Google Generative AI blackbelt engineer, winner of multiple Microsoft career awards in AI, author of 30+ popular apps with several million users. Founder: [products](/products/products.md) and AI design, [books](/books/books.md).
-
-## What's new in 2024!
-
-- [AI Blueprint](https://twitter.com/i/communities/1833651045484081434) - Get your business up and running quickly with GenAI Blueprint 
-- [AI Coaching](http://aicoaching.us) - AI Coaching wins generative AI innovation award from US Olympic and Paralympic Committee 2023-2024
-- [NEW BOOK! Art of Prompts 2](https://www.amazon.com/dp/B0CS6LPJYC) - The  new book in Art of Prompts [Paperback](https://www.amazon.com/dp/B0CS6LPJYC) or  [Ebook on Kindle](https://www.amazon.com/dp/B0CNFM527T) or [Ebook on Google Play](https://play.google.com/store/books/details?id=opjrEAAAQBAJ).
-- [Livebook](https://livebookai.com) - Generative AI CMS - Make and share your own generative AI notebooks, greeting cards, stories, illustrations and more!
-
-## GenAI Blueprint
-[![GenAI Blueprint](images/ai-blueprint-overview.png)](https://twitter.com/i/communities/1833651045484081434)
-
-Let us build a complete AI app solution for your business with GenAI Blueprint:
-
-- Chat
-- E-Commerce
-- Media (Video/Text/Images)
-- Marketing
-- Learning
-
-[![GenAI Blueprint](images/ai-blueprint.png)](https://twitter.com/i/communities/1833651045484081434)
-
-## AI Coaching
-
-[![AI Coaching](images/ai-coaching-large.jpg)](https://youtu.be/KYLe8g_bq_4)
-
-NEW! AI Coaching wins generative AI innovation award from US Olympic and Paralympic Committee as a platform for AI innovation in sports targeting Olympics 2028 in LA and 2024 in Paris. It provides AI assistants available 24/7 for coaches and athletes to help with everyday training, coaching practice, personal training, sport image, documents, video analysis and more. Here's a video overview of AI Coaching and what it can do. 
-
-## NEW BOOK! The Art of Prompts 2
-
-[![http://kevinashley.com](images/banner_art_of_prompts_2.jpg)](https://www.amazon.com/dp/B0CS6LPJYC)
-
-_**Available in beautiful paperback and e-book with links!**_
-
-[Paperback](https://www.amazon.com/dp/B0CS6LPJYC) or [Kindle Ebook](https://www.amazon.com/dp/B0CNFM527T) or [Ebook on Google Play](https://play.google.com/store/books/details?id=opjrEAAAQBAJ)
-
-Second book in the series on how to make beautiful art with prompts. 
-Includes many new tools discussed in this book: the visual Prompt Maker, Comics Maker, Greeting Card Maker, Story Maker, and tons of templates from [Livebook](https://livebookai.com). You can play with them live and use them to create your own content.
-
-- [NEW Paperback](https://www.amazon.com/dp/B0CS6LPJYC), paperback, quality color print, feels and reads like an art book, 200 illustrations 
-- [Ebook (Amazon)](https://www.amazon.com/dp/B0CNFM527T) - reflowable text, easy navigation
-- [Ebook (Google Play)](https://play.google.com/store/books/details?id=opjrEAAAQBAJ)
-
-## Livebook
-
-[![Livebook](images/livebook.png)](https://livebookai.com)
-
-Livebook is a generative AI content management system (CMS) built from the ground up for rich generative AI content - text, illustrations, video, stories, comic books and more. It powers many online businesses and organizations, and is fully customizable to meet the demand for customers interested in using generative AI: from assistance, support, professional articles, documentation, to popular and blog posts, news, stories, fiction, recipes, interesting facts, trivia and more.
-
-[![Livebook](https://img.youtube.com/vi/A1SEFlth5Fg/sddefault.jpg)](https://www.youtube.com/watch?v=A1SEFlth5Fg) 
-
- 
-
-## Kevin Ashley Labs
-
-Kevin Ashley engineering labs developed fantastic products that millions of users enjoy. Some of these products include generative AI content management systems [Livebook](https://livebookai.com), some are even installed in the museums (for example [AI Kiosk](https://livebookai.com/post/kiosk) for Computer History Museum in Silicon Valley), to games and fitness and sports apps like Active Fitness and Winter Sports.
 
