@@ -33,4 +33,4 @@ Livebook is an E-Commerce platform and the largest generative AI content managem
 
 [![Livebook](https://img.youtube.com/vi/A1SEFlth5Fg/sddefault.jpg)](https://www.youtube.com/watch?v=A1SEFlth5Fg) 
 
-
+[![Kevin Ashley](images/kalabs-horizontal.png)](https://www.kevinashley.com)
