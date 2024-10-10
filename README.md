@@ -1,7 +1,7 @@
 [![http://kevinashley.com](images/kalabs.jpg)](http://kevinashley.com)
 
 
-The lab's primary objective is supporting research and innovation in all aspects of human lives. Founded by Kevin Ashley, [author](/books/books.md), Google Generative AI blackbelt engineer, winner of multiple Microsoft career awards in AI, author of 30+ popular apps with several million users. Founder: [products](/products/products.md) and AI design, [books](/books/books.md).
+The lab's primary objective is supporting research and innovation in all aspects of human lives. Founded by Kevin Ashley, [author](/books/books.md), Google Generative AI blackbelt engineer, winner of multiple Microsoft career awards in AI, author of 30+ popular apps with several million users. Founder and author: [books](/books/books.md).
 
 ## What's new in 2024!
 
