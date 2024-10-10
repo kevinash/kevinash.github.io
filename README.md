@@ -13,7 +13,7 @@ The lab's primary objective is supporting research and innovation in all aspects
 
 [![http://www.ai-blueprint.net](images/ai-blueprint-logo.png)](https://www.ai-blueprint.net)
 
-New AI platform to accelerate your AI solutions. If you are thinking of starting an AI solution for your business, consider our blueprint solutions! A blueprint is a prebuilt solution that can be customized by our consulting team or in partnership with your business to the needs of your business. 
+New AI platform to accelerate your AI ideas. If you are thinking of starting an AI project, consider AI Blueprint! 
 
 [Start with a blueprint: get a complete AI solution!](https://www.ai-blueprint.net)
 
@@ -21,6 +21,6 @@ New AI platform to accelerate your AI solutions. If you are thinking of starting
 
 [![AI Coaching](images/ai-coaching-large.jpg)](https://aicoaching.us)
 
-AI Coaching is our joint project with the US Olympic and Paralympic Committee that provides AI Assistants available 24/7 for coaches and athletes to help with everyday training, coaching practice, personal training and more. 
+AI Coaching is our joint research project with the US Olympic and Paralympic Committee that provides AI Assistants available 24/7 for coaches and athletes to help with everyday training, coaching practice, personal training and more. 
 
 [![Kevin Ashley](images/kalabs-horizontal.png)](https://www.kevinashley.com)
