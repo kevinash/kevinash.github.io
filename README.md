@@ -3,19 +3,17 @@
 
 The lab's primary objective is supporting research and innovation in all aspects of human lives. Founded by Kevin Ashley, [author](/books/books.md), Google Generative AI blackbelt engineer, winner of multiple Microsoft career awards in AI, author of 30+ popular apps with several million users. Founder and author: [books](/books/books.md).
 
-## What's new in 2024!
+## What's new in 2025!
 
-- [AI Blueprint](https://www.ai-blueprint.net) - New AI blueprint for AI solutions
+- [AGENTOMAT](https://agentomat.com) - AI Agents for Everyone! AI Agents platform for business.
 - [AI Coaching](https://aicoaching.us) - AI Coaching wins US Olympic and Paralympic Committee innovation nomination
 - [Books](http://kevinashley.com/books/books.html) - Check my books
 
-## AI Blueprint
+## AGENTOMAT.COM
 
-[![http://www.ai-blueprint.net](images/ai-blueprint-logo.png)](https://www.ai-blueprint.net)
+[![https://agentomat.com](images/ai-blueprint-logo.png)](https://www.ai-blueprint.net)
 
-New AI platform to accelerate your AI ideas. If you are thinking of starting an AI project, consider AI Blueprint! 
-
-[Start with a blueprint: get a complete AI solution!](https://www.ai-blueprint.net)
+AI Agents for Everyone! Best business tools for AI Agents: create, share, monitor Agents for your business.
 
 ## AI Coaching
 
