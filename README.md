@@ -17,7 +17,7 @@ AI Agents for Everyone! Best business tools for AI Agents: create, share, monito
 
 ## AI Coaching
 
-[![AI Coaching](images/ai-coaching-large.jpg)](https://aicoaching.us)
+[![AI Coaching](images/ai-coaching-thumbnail.jpg)](https://aicoaching.us)
 
 AI Coaching is our joint research project with the US Olympic and Paralympic Committee that provides AI Assistants available 24/7 for coaches and athletes to help with everyday training, coaching practice, personal training and more. 
 
