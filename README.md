@@ -11,7 +11,7 @@ The lab's primary objective is supporting research and innovation in all aspects
 
 ## AGENTOMAT.COM
 
-[![https://agentomat.com](images/ai-blueprint-logo.png)](https://www.ai-blueprint.net)
+[![https://agentomat.com](images/agentomat-square-white.png)](https://agentomat.com)
 
 AI Agents for Everyone! Best business tools for AI Agents: create, share, monitor Agents for your business.
 
