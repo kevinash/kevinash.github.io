@@ -15,6 +15,8 @@ The lab's primary objective is supporting research and innovation in all aspects
 
 AI Agents for Everyone! Best business tools for AI Agents: create, share, monitor Agents for your business.
 
+[![https://agentomat.com](images/agentomat-business.mp4)](https://agentomat.com)
+
 [AGENTOMAT.COM](https://agentomat.com)
 
 ## AI Coaching
