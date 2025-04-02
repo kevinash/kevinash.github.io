@@ -5,11 +5,24 @@ The lab's primary objective is supporting research and innovation in all aspects
 
 ## What's new in 2025!
 
-- [AGENTOMAT](https://agentomat.com) - AI Agents for Everyone! AI Agents platform for business.
 - [AI Coaching](https://aicoaching.us) - AI Coaching wins US Olympic and Paralympic Committee innovation nomination
+- [Sportube](https://sportubeai.com) - Turn any YouTube video into AI Coach
+- [Agentomat](https://agentomat.com) - Agents as a Service (AaaS) platform for business.
 - [Books](http://kevinashley.com/books/books.html) - Check my books
 
-## AGENTOMAT.COM
+## AI Coaching
+
+[![AI Coaching](images/ai-coaching-thumbnail.jpg)](https://aicoaching.us)
+
+AI Coaching is our joint research project with the US Olympic and Paralympic Committee that provides AI Assistants available 24/7 for coaches and athletes to help with everyday training, coaching practice, personal training and more to Team USA. 
+
+## Sportube
+
+[![Sportube](images/sportube-logo-long.png)](https://SportubeAI.com)
+
+Turn any video into AI Coach! Great tool for YouTube sport videos!
+
+## Agentomat
 
 [![https://agentomat.com](images/agentomat-square-white.png)](https://agentomat.com)
 
@@ -17,10 +30,6 @@ AI Agents for Everyone! Best business tools for AI Agents: create, share, monito
 
 [AGENTOMAT.COM](https://agentomat.com)
 
-## AI Coaching
 
-[![AI Coaching](images/ai-coaching-thumbnail.jpg)](https://aicoaching.us)
-
-AI Coaching is our joint research project with the US Olympic and Paralympic Committee that provides AI Assistants available 24/7 for coaches and athletes to help with everyday training, coaching practice, personal training and more. 
 
 [![Kevin Ashley](images/kalabs-horizontal.png)](https://www.kevinashley.com)
