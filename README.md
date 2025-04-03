@@ -5,8 +5,8 @@ The lab's primary objective is supporting research and innovation in all aspects
 
 ## What's new in 2025!
 
-- [AI Coaching](https://aicoaching.us) - AI Coaching wins US Olympic and Paralympic Committee innovation nomination
-- [Sportube](https://sportubeai.com) - Turn any YouTube video into AI Coach
+- [AI Coaching](https://aicoaching.us) - AI Coaching wins US Olympic and Paralympic Committee innovation award and continue helping Team USA
+- [Sportube](https://sportubeai.com) - Turn any YouTube video into AI Coach - providing coaching experience for 5 billion videos on YouTube 
 - [Agentomat](https://agentomat.com) - Agents as a Service (AaaS) platform for business.
 - [Books](http://kevinashley.com/books/books.html) - Check my books
 
@@ -26,7 +26,7 @@ Turn any video into AI Coach! Great tool for YouTube sport videos!
 
 [![https://agentomat.com](images/agentomat-square-white.png)](https://agentomat.com)
 
-AI Agents for Everyone! Best business tools for AI Agents: create, share, monitor Agents for your business.
+Agentomat is our business AI tool, Agents as a Service. Best business tools for AI Agents: create, share, monitor Agents for your business.
 
 [AGENTOMAT.COM](https://agentomat.com)
 
