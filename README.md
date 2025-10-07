@@ -12,15 +12,15 @@ The lab's primary objective is supporting engineering research and innovation in
 
 ## AI Coaching
 
-[![AI Coaching](images/AI Coaching SQ Logo.png)](https://aicoaching.us)
-
 AI Coaching is our joint research project with the US Olympic and Paralympic Committee that provides AI coaching agents 24/7 for coaches and athletes to help with everyday training, coaching practice, personal training and more to Team USA. 
+
+[![AI Coaching](images/ai-coaching-logo-sq-2.png)](https://aicoaching.us)
 
 ## Wearable AI Companions
 
-[![AI Companions](images/companion_white_blue.png)](https://aicoaching.us/store/products)
-
 AI Coaching Companions are wearable products for sports. You can preorder them now!
+
+[![AI Companions](images/companion_white_blue.png)](https://aicoaching.us/store/products)
 
 ## Sportube
 
