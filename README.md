@@ -1,20 +1,27 @@
 [![http://kevinashley.com](images/kalabs.jpg)](http://kevinashley.com)
 
 
-The lab's primary objective is supporting research and innovation in all aspects of human lives. Founded by Kevin Ashley, [author](/books/books.md), Google Generative AI blackbelt engineer, winner of multiple Microsoft career awards in AI, author of 30+ popular apps with several million users. Founder and author: [books](/books/books.md).
+The lab's primary objective is supporting engineering research and innovation in all aspects of human lives. Founded by Kevin Ashley, [author](/books/books.md), Google Generative AI blackbelt lead, winner of multiple Microsoft career awards in AI, author of 30+ popular apps with several million users. Founder and author: [books](/books/books.md).
 
 ## What's new in 2025!
 
 - [AI Coaching](https://aicoaching.us) - AI Coaching wins US Olympic and Paralympic Committee innovation award and continue helping Team USA
+- [Wearable AI Companions](https://aicoaching.us/store/products) we launched wearable AI Companions! Check them out.
 - [Sportube](https://sportubeai.com) - Turn any YouTube video into AI Coach - providing coaching experience for 5 billion videos on YouTube 
 - [Agentomat](https://agentomat.com) - Agents as a Service (AaaS) platform for business.
 - [Books](http://kevinashley.com/books/books.html) - Check my books
 
 ## AI Coaching
 
-[![AI Coaching](images/ai-coaching-thumbnail.jpg)](https://aicoaching.us)
+[![AI Coaching](images/ai-c.jpg)](https://aicoaching.us)
 
 AI Coaching is our joint research project with the US Olympic and Paralympic Committee that provides AI Assistants available 24/7 for coaches and athletes to help with everyday training, coaching practice, personal training and more to Team USA. 
+
+## Wearable AI Companions
+
+[![AI Companions](images/companion_white_blue.png)](https://aicoaching.us/store/products)
+
+AI Coaching Companions are wearable products for sports. You can preorder them now!
 
 ## Sportube
 
