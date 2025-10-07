@@ -1,6 +1,5 @@
 [![http://kevinashley.com](images/kalabs.jpg)](http://kevinashley.com)
 
-
 The lab's primary objective is supporting engineering research and innovation in all aspects of human lives. Founded by Kevin Ashley, [author](/books/books.md), Google Generative AI blackbelt lead, winner of multiple Microsoft career awards in AI, author of 30+ popular apps with several million users. Founder and author: [books](/books/books.md).
 
 ## What's new in 2025!
@@ -13,9 +12,9 @@ The lab's primary objective is supporting engineering research and innovation in
 
 ## AI Coaching
 
-[![AI Coaching](images/ai-c.jpg)](https://aicoaching.us)
+[![AI Coaching](images/AI Coaching SQ Logo.png)](https://aicoaching.us)
 
-AI Coaching is our joint research project with the US Olympic and Paralympic Committee that provides AI Assistants available 24/7 for coaches and athletes to help with everyday training, coaching practice, personal training and more to Team USA. 
+AI Coaching is our joint research project with the US Olympic and Paralympic Committee that provides AI coaching agents 24/7 for coaches and athletes to help with everyday training, coaching practice, personal training and more to Team USA. 
 
 ## Wearable AI Companions
 
