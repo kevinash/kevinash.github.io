@@ -1,10 +1,10 @@
 # Sample workflow for building and deploying a Jekyll site to GitHub Pages
-name: Deploy Jekyll with GitHub Pages dependencies preinstalled
+name: Deploy Jekyll site to Pages
 
 on:
   # Runs on pushes targeting the default branch
   push:
-    branches: ["master"]
+    branches: ["main"] # Correct: The new standard default branch is 'main'
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -15,11 +15,10 @@ permissions:
   pages: write
   id-token: write
 
-# Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
-# However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
+# Allow only one concurrent deployment, skipping runs queued between the latest run and a new one.
 concurrency:
   group: "pages"
-  cancel-in-progress: false
+  cancel-in-progress: true # Correct: For safer concurrent deployments
 
 jobs:
   # Build job
@@ -27,16 +26,22 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4 # Recommended: Use latest action version
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.1' # Specify a compatible Ruby version
+          bundler-cache: true # Caches installed gems
       - name: Setup Pages
-        uses: actions/configure-pages@v3
+        id: pages
+        uses: actions/configure-pages@v4 # Recommended: Use latest action version
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
         with:
           source: ./
           destination: ./_site
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v4
+        uses: actions/upload-pages-artifact@v4 # Recommended: Use latest action version
 
   # Deployment job
   deploy:
@@ -48,4 +53,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v2
+        uses: actions/deploy-pages@v4 # Recommended: Use latest action version
