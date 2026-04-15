@@ -7,10 +7,6 @@ Kevin Ashley is a sought-after speaker, startup founder and enterpreneur at the 
 
 Book a session with Kevin: [https://chataranga.com/calendar/book/kevin.ashley](https://chataranga.com/calendar/book/kevin.ashley)
 
-## Book a session with Kevin
-
-Book a session with Kevin: [https://chataranga.com/calendar/book/kevin.ashley](https://chataranga.com/calendar/book/kevin.ashley)
-
 ### Corporate — AI Consulting for Real Results
 
 Kevin works directly with companies to identify high-impact AI opportunities and turn them into shipped products. From AI-first product design to communication platforms, video systems, and edge hardware, he helps teams move beyond strategy decks into execution. Engagements focus on rapid prototyping, architecture decisions, and building systems that deliver measurable business outcomes.
