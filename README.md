@@ -21,4 +21,4 @@ Kevin is an experienced speaker who has presented at events and conferences acro
 
 Book a session with Kevin: [Book Now!](https://chataranga.com/calendar/book/kevin.ashley)
 
-[![https://chataranga.com/calendar/book/kevin.ashley](images/ka_book_session-2.jpg)](https://chataranga.com/calendar/book/kevin.ashley)
+[![https://chataranga.com/calendar/book/kevin.ashley](images/ka_book_session.jpg)](https://chataranga.com/calendar/book/kevin.ashley)
