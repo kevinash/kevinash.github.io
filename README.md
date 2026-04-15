@@ -1,41 +1,27 @@
-[![http://kevinashley.com](images/kalabs.jpg)](http://kevinashley.com)
+[![https://chataranga.com/calendar/book/kevin.ashley](images/ka_book_session.jpg)](https://chataranga.com/calendar/book/kevin.ashley)
 
-The lab's primary objective is supporting engineering research and innovation in all aspects of human lives. Founded by Kevin Ashley, [author](/books/books.md), Google Generative AI blackbelt lead, winner of multiple Microsoft career awards in AI, author of 30+ popular apps with several million users. Founder and author: [books](/books/books.md).
+Kevin Ashley is a sought-after speaker, startup founder and enterpreneur at the intersection of AI, product innovation, and real-world execution. With a decade long career spanning Microsoft and Google, and as the creator of platforms like AI Coaching, Sportube, Chataranga Messenger, he brings a rare builder’s perspective to every engagement—focused not on theory, but on how to actually ship transformative products for AI, Telecom, Video, Communications, Sports, Edge Hardware and Wearable AI. Kevin works closely with executives, founders, and organizations to identify high-impact AI opportunities, redesign products for the AI era, and accelerate from idea to deployment. As a speaker, he is known for clear, provocative insights on topics like AI-first company design, human + AI collaboration, and the future of global communication—delivered with the credibility of someone who has built systems used at Olympic and global scale.
 
-## What's new in 2025!
 
-- [AI Coaching](https://aicoaching.us) - AI Coaching wins US Olympic and Paralympic Committee innovation award and continue helping Team USA
-- [Wearable AI Companions](https://aicoaching.us/store/products) we launched wearable AI Companions! Check them out.
-- [Sportube](https://sportubeai.com) - Turn any YouTube video into AI Coach - providing coaching experience for 5 billion videos on YouTube 
-- [Agentomat](https://agentomat.com) - Agents as a Service (AaaS) platform for business.
-- [Books](http://kevinashley.com/books/books.html) - Check my books
+## Book a session with Kevin
 
-## AI Coaching
+Book a session with Kevin: [https://chataranga.com/calendar/book/kevin.ashley](https://chataranga.com/calendar/book/kevin.ashley)
 
-AI Coaching is our joint research project with the US Olympic and Paralympic Committee that provides AI coaching agents 24/7 for coaches and athletes to help with everyday training, coaching practice, personal training and more to Team USA. 
+## Book a session with Kevin
 
-[![AI Coaching](images/ai-coaching-logo-sq-2.png)](https://aicoaching.us)
+Book a session with Kevin: [https://chataranga.com/calendar/book/kevin.ashley](https://chataranga.com/calendar/book/kevin.ashley)
 
-## Wearable AI Companions
+### Corporate — AI Consulting for Real Results
 
-AI Coaching Companions are wearable products for sports. You can preorder them now!
+Kevin works directly with companies to identify high-impact AI opportunities and turn them into shipped products. From AI-first product design to communication platforms, video systems, and edge hardware, he helps teams move beyond strategy decks into execution. Engagements focus on rapid prototyping, architecture decisions, and building systems that deliver measurable business outcomes.
 
-[![AI Companions](images/companion_white_blue.png)](https://aicoaching.us/store/products)
+### Personal — Coaching & Strategic Advice
 
-## Sportube
+For founders, builders, and professionals, Kevin offers focused coaching sessions designed to accelerate thinking and decision-making. Whether you're launching a startup, exploring AI opportunities, or navigating product direction, sessions are practical, direct, and tailored to your goals—helping you move faster with clarity.
 
-[![Sportube](images/sportube-logo-long.png)](https://SportubeAI.com)
+### Speaker — Conferences & Events
 
-Turn any video into AI Coach! Great tool for YouTube sport videos!
-
-## Agentomat
-
-[![https://agentomat.com](images/agentomat-square-white.png)](https://agentomat.com)
-
-Agentomat is our business AI tool, Agents as a Service. Best business tools for AI Agents: create, share, monitor Agents for your business.
-
-[AGENTOMAT.COM](https://agentomat.com)
-
+Kevin is an experienced speaker who has presented at events and conferences across Microsoft and Google. His talks cover AI-first company design, human + AI collaboration, and building real products at scale. Submit a request to bring Kevin to your event for sharp, insightful, and actionable sessions.
 
 
 [![Kevin Ashley](images/kalabs-horizontal.png)](https://www.kevinashley.com)
