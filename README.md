@@ -30,5 +30,7 @@ Book a session with Kevin: [Book Now!](https://chataranga.com/calendar/book/kevi
 
 * **Hardware & Physical AI** — Kevin develops intelligent AI-powered camera systems used in sports and security. His California-based team designs and manufactures custom hardware deeply integrated with real-time AI analytics and video processing.
 
+* **Books & Education** — Kevin is the author of *[Applied Machine Learning for Health and Fitness](https://link.springer.com/book/10.1007/978-1-4842-5772-2)* and created the online course *[AI in Sports with Python](https://ai-learning.vhx.tv/)*, helping engineers and practitioners apply AI to real-world sports and performance problems.
+
 
 [![https://chataranga.com/calendar/book/kevin.ashley](images/ka_book_session.jpg)](https://chataranga.com/calendar/book/kevin.ashley)
